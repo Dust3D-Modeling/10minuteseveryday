@@ -6,7 +6,7 @@ https://github.com/Dust3D-Modeling/10minuteseveryday
 Dust3D software:  
 https://github.com/huxingyi/dust3d
 
-Most of the models have been uploaded to Google Poly:  
+Some of the models have been uploaded to Google Poly:  
 https://poly.google.com/user/bs223tJuvTe
 
 License:  
