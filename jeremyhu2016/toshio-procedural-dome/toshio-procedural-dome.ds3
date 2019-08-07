@@ -1,0 +1,822 @@
+DUST3D 1.0 xml 0000000256
+<?xml version="1.0" encoding="UTF-8"?>
+<ds3>
+    <model name="model.xml" offset="0" size="115870"/>
+    <script name="model.js" offset="115870" size="5007"/>
+    <variable name="variables.xml" offset="120877" size="171"/>
+</ds3>
+<?xml version="1.0" encoding="UTF-8"?>
+<canvas originX="0.5" originY="0.5" originZ="0.5" rigType="None">
+    <nodes>
+        <node id="{00049e6d-51fe-405d-adbc-67772b5077a5}" partId="{e622cd6e-b109-4a22-9b8d-bcae4de67233}" radius="0.01" x="0.333333" y="0.396994" z="0.230328"/>
+        <node id="{007b7fec-1a97-46d2-b457-d321e11cb4e6}" partId="{b0955a46-ea37-450d-9b7d-da23e733d0bf}" radius="0.01" x="0.230328" y="0.333333" z="0.396994"/>
+        <node id="{00a3167e-f9af-4b04-a698-eddd9e926aad}" partId="{4a68545a-eabf-420e-999a-96982cab64c5}" radius="0.01" x="0.21645" y="0.5" z="0.324756"/>
+        <node id="{0101112c-2290-4976-bf57-de9bb95f95ab}" partId="{d96575a8-3fe3-4c1f-8e71-a014012509d4}" radius="0.01" x="0.166667" y="0.5" z="0.5"/>
+        <node id="{026b4976-195e-43e6-9046-95c830e6bca9}" partId="{f496202a-2290-4cfa-bb5f-6fe5d5e00dbb}" radius="0.01" x="0.230328" y="0.333333" z="0.396994"/>
+        <node id="{039e2b13-0437-4e27-bad4-97058020b3bd}" partId="{83ecf666-f8d2-4f55-95ff-95e6ace251ae}" radius="0.01" x="0.5" y="0.5" z="0.833333"/>
+        <node id="{04ea89c2-0cfa-44ca-8aa4-4a43e074c598}" partId="{279fee4c-a8b7-48e7-bca1-466c046e27dd}" radius="0.01" x="0.666667" y="0.603006" z="0.769672"/>
+        <node id="{04f12430-ecdd-4578-8ef8-079ecabbb475}" partId="{279fee4c-a8b7-48e7-bca1-466c046e27dd}" radius="0.01" x="0.769672" y="0.666667" z="0.603006"/>
+        <node id="{06fd44a7-eae6-4637-8d10-be2e4b5cd302}" partId="{86331152-3d9f-420d-8faa-a43965e3b991}" radius="0.01" x="0.769672" y="0.666667" z="0.603006"/>
+        <node id="{07978bf5-7106-4048-9e68-2bc329781bd7}" partId="{a0691a75-08e6-43ba-b517-2fd9764cee2e}" radius="0.01" x="0.666667" y="0.603006" z="0.769672"/>
+        <node id="{08dba2cd-ba8c-4284-ae3e-cb75d74156b8}" partId="{4dc40c74-72e5-4559-a42b-14fb1b22b118}" radius="0.01" x="0.675244" y="0.78355" z="0.5"/>
+        <node id="{0950f45c-b56e-4f67-a12e-74704130ce34}" partId="{2048197c-5d25-4350-8b69-bbc6c92e14c1}" radius="0.01" x="0.5" y="0.5" z="0.833333"/>
+        <node id="{09c491a7-c24d-411d-a96e-58fc3e50b4c0}" partId="{d96575a8-3fe3-4c1f-8e71-a014012509d4}" radius="0.01" x="0.230328" y="0.666667" z="0.603006"/>
+        <node id="{09d43997-fed1-4959-ad41-d192307de964}" partId="{bcabfba3-2477-400d-9e32-2cada32ef216}" radius="0.01" x="0.675244" y="0.21645" z="0.5"/>
+        <node id="{0acc4cd6-5b21-4d89-be8f-f20a616e3323}" partId="{2e89f2b5-a36e-4f98-86bb-d7613587a279}" radius="0.01" x="0.675244" y="0.21645" z="0.5"/>
+        <node id="{0b2793f7-e027-43c7-9d34-2496726ee9e2}" partId="{0b0d2329-8060-44ff-883c-8bc503f4f573}" radius="0.01" x="0.78355" y="0.5" z="0.324756"/>
+        <node id="{0c256fe2-23db-4bb4-9dd1-f2572b3239ec}" partId="{013f97d9-2f72-4450-a79c-c6d6c3141be3}" radius="0.01" x="0.666667" y="0.603006" z="0.230328"/>
+        <node id="{0c33565c-1202-4a86-92ec-1ad35d9d3629}" partId="{ae4538f5-3c76-4b89-bbf9-20bc60354c0b}" radius="0.01" x="0.769672" y="0.666667" z="0.603006"/>
+        <node id="{0cb258d7-cef0-40fd-b62e-c5270416bccd}" partId="{e62d0924-8cb7-4498-810c-53572c7d317b}" radius="0.01" x="0.5" y="0.5" z="0.833333"/>
+        <node id="{0cc1f2c8-e69d-4db3-bf35-4049c4641b5c}" partId="{64e327a1-c75f-441e-b9d5-6f9c365b212c}" radius="0.01" x="0.166667" y="0.5" z="0.5"/>
+        <node id="{0d8ea577-4d69-4d64-ac3a-f3012674b5b1}" partId="{678dbbd0-9aa4-468b-ba41-ba572040eb29}" radius="0.01" x="0.78355" y="0.5" z="0.675244"/>
+        <node id="{0e255d83-a5e6-4546-a907-46fe9531dae5}" partId="{bcabfba3-2477-400d-9e32-2cada32ef216}" radius="0.01" x="0.769672" y="0.333333" z="0.396994"/>
+        <node id="{0ec2490f-1e31-4c8b-8a8a-e1bec92b3ace}" partId="{1cdd7eb4-0612-4f3b-84f3-08126257eee0}" radius="0.01" x="0.78355" y="0.5" z="0.675244"/>
+        <node id="{10f367ad-040e-456b-a0b8-907f3d5256dc}" partId="{02c7d514-ef8f-4fd8-8e35-e0c9902ecd82}" radius="0.01" x="0.333333" y="0.396994" z="0.769672"/>
+        <node id="{11458c8d-9d44-4a64-89b3-ceef60fd3930}" partId="{89b891e5-0a8a-49d8-b330-c9173d9be03e}" radius="0.01" x="0.666667" y="0.603006" z="0.769672"/>
+        <node id="{117bbd65-91bb-4887-bee7-ea3a34362fa3}" partId="{1497f1eb-8446-4b02-bb85-87f1520bddb7}" radius="0.01" x="0.324756" y="0.21645" z="0.5"/>
+        <node id="{12ae5276-8aa9-4dcd-8e0d-0f83ec57b0f9}" partId="{d4037b86-f0fe-407f-b914-5b099d42acaf}" radius="0.01" x="0.333333" y="0.396994" z="0.769672"/>
+        <node id="{12eeefad-7ffb-46f6-92cd-918a34deefef}" partId="{76d2addf-ca64-4263-a223-69acbc5de1ab}" radius="0.01" x="0.666667" y="0.396994" z="0.230328"/>
+        <node id="{139f208a-1cba-4484-b1a6-0f5090f84a98}" partId="{36b6fa7d-574a-4309-8aaa-b4643cd59266}" radius="0.01" x="0.21645" y="0.5" z="0.675244"/>
+        <node id="{14456ce3-3885-4f45-a9cb-c2382aa36937}" partId="{53300dc0-cc3a-4609-a3f3-fcbcc644b882}" radius="0.01" x="0.333333" y="0.603006" z="0.230328"/>
+        <node id="{15b746c8-8f2e-4224-a800-2deff948a0de}" partId="{0f743902-6c5f-49d1-83e0-366b5c00ca27}" radius="0.01" x="0.769672" y="0.333333" z="0.603006"/>
+        <node id="{160418db-5d1c-4af3-9c78-513b8b3a84c3}" partId="{c9a995ca-565e-4934-b225-cee6232b91bd}" radius="0.01" x="0.396994" y="0.769672" z="0.333333"/>
+        <node id="{178b9b38-5f45-4744-ae94-35cee6443205}" partId="{d96575a8-3fe3-4c1f-8e71-a014012509d4}" radius="0.01" x="0.21645" y="0.5" z="0.675244"/>
+        <node id="{17c49950-cbca-409c-ac69-b9713ba5fe41}" partId="{88e3bebb-82c5-4eea-a072-0e4030837ce7}" radius="0.01" x="0.396994" y="0.230328" z="0.666667"/>
+        <node id="{18e31d4f-5390-40d0-9637-d4e553f56167}" partId="{4a68545a-eabf-420e-999a-96982cab64c5}" radius="0.01" x="0.333333" y="0.603006" z="0.230328"/>
+        <node id="{1acddb2c-a228-4818-8b8c-d732805d8978}" partId="{76d2addf-ca64-4263-a223-69acbc5de1ab}" radius="0.01" x="0.5" y="0.5" z="0.166667"/>
+        <node id="{1c134426-1f9f-4ae4-874e-99c0b150abfe}" partId="{ad48f400-ea08-4fc5-b1c0-e84c4dba2d9e}" radius="0.01" x="0.21645" y="0.5" z="0.675244"/>
+        <node id="{1c8f0034-de08-4c6a-af62-6f7c78e35aef}" partId="{64e327a1-c75f-441e-b9d5-6f9c365b212c}" radius="0.01" x="0.21645" y="0.5" z="0.324756"/>
+        <node id="{1d3074b2-45db-440f-8633-20eef3e75cc2}" partId="{71edd6c1-b200-4ac4-88eb-3fb90ffd4fc3}" radius="0.01" x="0.5" y="0.5" z="0.166667"/>
+        <node id="{1e618107-708f-4a51-b3bc-2c86717292d3}" partId="{98d9b782-5d24-43dd-a7a7-45800f1eaefe}" radius="0.01" x="0.603006" y="0.230328" z="0.333333"/>
+        <node id="{1ea409cf-8786-4533-aa7b-fd7267d205c6}" partId="{770af3ad-1b7a-49b6-86a8-dd3f967ee100}" radius="0.01" x="0.5" y="0.5" z="0.166667"/>
+        <node id="{1ea9457e-b952-4cbb-b3ef-ac51bc93121e}" partId="{36c42fa5-5110-4d48-9c2d-26642d29dd0f}" radius="0.01" x="0.230328" y="0.666667" z="0.603006"/>
+        <node id="{1f99166b-b7ac-48af-9e2d-8f314646c37e}" partId="{69b70cd0-9316-4079-a915-7491c66a2180}" radius="0.01" x="0.769672" y="0.333333" z="0.396994"/>
+        <node id="{1fade169-fe2d-4d9b-89cf-f2bfe47fc25f}" partId="{88e3bebb-82c5-4eea-a072-0e4030837ce7}" radius="0.01" x="0.230328" y="0.333333" z="0.603006"/>
+        <node id="{20976fad-4b2b-4366-8f4a-9be20ca4f7f4}" partId="{53300dc0-cc3a-4609-a3f3-fcbcc644b882}" radius="0.01" x="0.396994" y="0.769672" z="0.333333"/>
+        <node id="{259e9d69-ddd5-480c-b04c-daf1b3b9c97b}" partId="{36b6fa7d-574a-4309-8aaa-b4643cd59266}" radius="0.01" x="0.333333" y="0.396994" z="0.769672"/>
+        <node id="{262963d5-0312-4df0-ad59-27d4015c9447}" partId="{f9c82837-27f3-4e91-b8a3-458c9330b200}" radius="0.01" x="0.603006" y="0.769672" z="0.333333"/>
+        <node id="{29852f99-61a8-453b-b744-29fbc758954d}" partId="{64e327a1-c75f-441e-b9d5-6f9c365b212c}" radius="0.01" x="0.230328" y="0.666667" z="0.396994"/>
+        <node id="{2a523c19-ec5f-4f97-b46f-3b5a27169b6e}" partId="{dd1418ef-89cd-4933-b429-631e5c883d65}" radius="0.01" x="0.333333" y="0.603006" z="0.769672"/>
+        <node id="{2b9ca122-e1d1-40e9-ac17-5e8bed554ae3}" partId="{c9a995ca-565e-4934-b225-cee6232b91bd}" radius="0.01" x="0.603006" y="0.769672" z="0.333333"/>
+        <node id="{2c466bad-8241-4ad9-b83a-f12a15a4f22d}" partId="{44edcd7f-70c9-4986-afb3-84941c7f453e}" radius="0.01" x="0.5" y="0.324756" z="0.21645"/>
+        <node id="{2d86899c-0965-455a-88a4-031f5303df55}" partId="{c0423874-fe1e-42cf-ae4a-c11041d76039}" radius="0.01" x="0.230328" y="0.666667" z="0.603006"/>
+        <node id="{2fec577f-01b2-43d7-9e03-ad12028e75da}" partId="{28909cfc-687f-4979-8107-a2a02ec09903}" radius="0.01" x="0.603006" y="0.230328" z="0.666667"/>
+        <node id="{304a75e4-40af-4f1f-b634-f36237ec3353}" partId="{f6fec252-5636-41c6-96e4-24e9a1702aa9}" radius="0.01" x="0.5" y="0.675244" z="0.78355"/>
+        <node id="{32dd38b7-751e-40dc-8597-b4e868c7ead3}" partId="{aa00e7e7-c5a5-4b22-b4a0-e436ef884e0e}" radius="0.01" x="0.396994" y="0.769672" z="0.333333"/>
+        <node id="{353548b6-cbc2-4c22-9358-76960b19d43a}" partId="{bc7f721f-dfa5-4e49-850c-df3fda3ae531}" radius="0.01" x="0.396994" y="0.769672" z="0.666667"/>
+        <node id="{3586b33c-de41-4d36-bcb2-0783cb52764d}" partId="{bf67a7e4-ed39-4695-a089-709de19eaaa9}" radius="0.01" x="0.324756" y="0.78355" z="0.5"/>
+        <node id="{3778936f-e63a-4b08-9f26-33366d5c475a}" partId="{bf67a7e4-ed39-4695-a089-709de19eaaa9}" radius="0.01" x="0.396994" y="0.769672" z="0.666667"/>
+        <node id="{3789c3ae-6e1a-43d6-8588-19a80cb96a63}" partId="{50616f09-e6cd-4481-9fea-4f7f958eb6ca}" radius="0.01" x="0.396994" y="0.769672" z="0.666667"/>
+        <node id="{38da0d5c-09da-431a-9d7f-b52e7bd798e9}" partId="{57cf22f4-7337-422b-a555-ac64ac4c6c96}" radius="0.01" x="0.666667" y="0.603006" z="0.230328"/>
+        <node id="{39c07d4e-eee9-4802-ac11-ee2a4a2c196c}" partId="{0395d392-d78e-4ed6-964b-60d34329642d}" radius="0.01" x="0.666667" y="0.396994" z="0.769672"/>
+        <node id="{39f879af-77a0-480b-8be8-843b48c4c939}" partId="{57cf22f4-7337-422b-a555-ac64ac4c6c96}" radius="0.01" x="0.78355" y="0.5" z="0.324756"/>
+        <node id="{3bdd6dc2-c4e4-47df-a57a-d96e3c477f2c}" partId="{0abaddc5-ffad-4761-93e3-63670423acfd}" radius="0.01" x="0.666667" y="0.603006" z="0.230328"/>
+        <node id="{3e9bf938-c873-4727-bdf2-d47528f1877c}" partId="{cca9ef24-7d27-40e3-a7ef-7920dbaaa379}" radius="0.01" x="0.603006" y="0.230328" z="0.333333"/>
+        <node id="{3f8e4834-1fdb-4f8e-b05f-602296f2f6d8}" partId="{c6623113-e3ad-4c5d-a17f-40968be715b4}" radius="0.01" x="0.21645" y="0.5" z="0.324756"/>
+        <node id="{3f9e170f-e731-4b1f-a63a-7f0f44e4f79a}" partId="{16b90461-93e0-4306-aff1-9dec64311876}" radius="0.01" x="0.833333" y="0.5" z="0.5"/>
+        <node id="{40151ec9-bde5-4fa1-8e45-b05f7808a32e}" partId="{0e9b2e10-bea2-4869-a579-c61514d1077d}" radius="0.01" x="0.324756" y="0.78355" z="0.5"/>
+        <node id="{42a184a8-9e43-40a8-82d2-feffb3a065fa}" partId="{44edcd7f-70c9-4986-afb3-84941c7f453e}" radius="0.01" x="0.603006" y="0.230328" z="0.333333"/>
+        <node id="{4683202e-5c66-4ba8-9c70-99408e0b233a}" partId="{c9a995ca-565e-4934-b225-cee6232b91bd}" radius="0.01" x="0.5" y="0.833333" z="0.5"/>
+        <node id="{47f80d13-7d02-461e-b5e2-60928a589746}" partId="{02c7d514-ef8f-4fd8-8e35-e0c9902ecd82}" radius="0.01" x="0.5" y="0.5" z="0.833333"/>
+        <node id="{4a5d978b-a71a-417e-bdfb-de8d24683194}" partId="{770af3ad-1b7a-49b6-86a8-dd3f967ee100}" radius="0.01" x="0.5" y="0.324756" z="0.21645"/>
+        <node id="{4b007752-6f49-4f59-9174-a04125a43d30}" partId="{0abaddc5-ffad-4761-93e3-63670423acfd}" radius="0.01" x="0.666667" y="0.396994" z="0.230328"/>
+        <node id="{4bc3b64e-bc32-4c5c-85ba-423c6299ba45}" partId="{2048197c-5d25-4350-8b69-bbc6c92e14c1}" radius="0.01" x="0.5" y="0.675244" z="0.78355"/>
+        <node id="{4c3b46fa-b699-4a04-9634-a1fc3987e96f}" partId="{013f97d9-2f72-4450-a79c-c6d6c3141be3}" radius="0.01" x="0.603006" y="0.769672" z="0.333333"/>
+        <node id="{4d7db2c4-7749-425d-8385-eafffb929ef7}" partId="{ae4538f5-3c76-4b89-bbf9-20bc60354c0b}" radius="0.01" x="0.675244" y="0.78355" z="0.5"/>
+        <node id="{4e1e847f-d000-4f98-a34b-cc3cffe1ec36}" partId="{83349077-7149-4042-b358-694ba21b46bb}" radius="0.01" x="0.333333" y="0.396994" z="0.769672"/>
+        <node id="{4e53ddb3-4bac-4486-9b72-1b0d50279e8c}" partId="{2e89f2b5-a36e-4f98-86bb-d7613587a279}" radius="0.01" x="0.603006" y="0.230328" z="0.666667"/>
+        <node id="{4eb54749-4ea3-40a5-9efc-a6c419a3257e}" partId="{6a01f8dc-73bb-41c5-965e-1b87ebd5e069}" radius="0.01" x="0.333333" y="0.396994" z="0.230328"/>
+        <node id="{4f0b6939-e1fb-4449-8ec4-1ad2c6780461}" partId="{cbbe543a-ba00-4825-b0d8-e80f2aecd631}" radius="0.01" x="0.5" y="0.675244" z="0.21645"/>
+        <node id="{50fd9872-bf6e-42b8-94b1-91d7681a5c10}" partId="{678dbbd0-9aa4-468b-ba41-ba572040eb29}" radius="0.01" x="0.666667" y="0.396994" z="0.769672"/>
+        <node id="{552d9ce1-38cf-4abc-996b-16d6b117c3c9}" partId="{b846af9e-6243-4d00-a23d-17dc1039d313}" radius="0.01" x="0.78355" y="0.5" z="0.324756"/>
+        <node id="{57866ff7-8ad7-4741-968b-8d746a160e37}" partId="{83ecf666-f8d2-4f55-95ff-95e6ace251ae}" radius="0.01" x="0.5" y="0.324756" z="0.78355"/>
+        <node id="{5934339e-4ba4-41b2-828f-3cc7be6e1114}" partId="{cbbe543a-ba00-4825-b0d8-e80f2aecd631}" radius="0.01" x="0.5" y="0.5" z="0.166667"/>
+        <node id="{5b657a2e-a6a8-4ca7-becf-fd5a43df9149}" partId="{83ecf666-f8d2-4f55-95ff-95e6ace251ae}" radius="0.01" x="0.666667" y="0.396994" z="0.769672"/>
+        <node id="{5c17bf37-61dc-49c0-b0f5-bf1a09683105}" partId="{832f3ea2-213b-41d8-8390-5bb0ad8008c8}" radius="0.01" x="0.603006" y="0.230328" z="0.666667"/>
+        <node id="{5ce24364-dbf8-4f60-828e-96912bb008af}" partId="{b0955a46-ea37-450d-9b7d-da23e733d0bf}" radius="0.01" x="0.396994" y="0.230328" z="0.333333"/>
+        <node id="{5d136fc4-53ee-4097-8099-ef8b64d55dfb}" partId="{cbbe543a-ba00-4825-b0d8-e80f2aecd631}" radius="0.01" x="0.666667" y="0.603006" z="0.230328"/>
+        <node id="{5ed93cfc-699f-4cdc-b0d9-a0db8f623fc3}" partId="{f496202a-2290-4cfa-bb5f-6fe5d5e00dbb}" radius="0.01" x="0.21645" y="0.5" z="0.324756"/>
+        <node id="{62858ad7-82b4-49a4-98d4-ca1f1f76b9ac}" partId="{44edcd7f-70c9-4986-afb3-84941c7f453e}" radius="0.01" x="0.396994" y="0.230328" z="0.333333"/>
+        <node id="{62ae91b6-c49f-46b7-8982-f3d7f3363df5}" partId="{d4037b86-f0fe-407f-b914-5b099d42acaf}" radius="0.01" x="0.396994" y="0.230328" z="0.666667"/>
+        <node id="{638c0370-77d1-49bd-9da4-526178fbf51d}" partId="{2ae8b3ff-c718-4b3c-8e95-8fc56e7fc0f8}" radius="0.01" x="0.5" y="0.166667" z="0.5"/>
+        <node id="{647ea0fd-e63b-46c6-aee1-3095d6fa88aa}" partId="{aa00e7e7-c5a5-4b22-b4a0-e436ef884e0e}" radius="0.01" x="0.324756" y="0.78355" z="0.5"/>
+        <node id="{659bfc07-2b8f-4ba2-a907-bbdff5eee8ab}" partId="{f6fec252-5636-41c6-96e4-24e9a1702aa9}" radius="0.01" x="0.396994" y="0.769672" z="0.666667"/>
+        <node id="{662ed296-5cd8-44e5-92f6-4d3fdcb5f8b2}" partId="{6dd12129-caad-4f89-9580-a9b6f6047b2c}" radius="0.01" x="0.769672" y="0.333333" z="0.396994"/>
+        <node id="{6917d4da-f380-4972-abec-ba9f498dacce}" partId="{86331152-3d9f-420d-8faa-a43965e3b991}" radius="0.01" x="0.833333" y="0.5" z="0.5"/>
+        <node id="{69c2d4a0-e50a-4a7a-853b-a2e28b01dc89}" partId="{86331152-3d9f-420d-8faa-a43965e3b991}" radius="0.01" x="0.78355" y="0.5" z="0.675244"/>
+        <node id="{6a7fc3a2-b8e8-419a-a234-7f3646609c99}" partId="{8d2348e8-7ed2-4ace-82bc-6a10d2f2e534}" radius="0.01" x="0.396994" y="0.230328" z="0.666667"/>
+        <node id="{6ade264f-1663-486e-8446-00c0f80ee60b}" partId="{57cf22f4-7337-422b-a555-ac64ac4c6c96}" radius="0.01" x="0.666667" y="0.396994" z="0.230328"/>
+        <node id="{6c38b93b-6f69-41c2-94e7-3d82ad6b179d}" partId="{2048197c-5d25-4350-8b69-bbc6c92e14c1}" radius="0.01" x="0.333333" y="0.603006" z="0.769672"/>
+        <node id="{6e8df06a-059c-42eb-a3b0-834fbd2ba9f5}" partId="{e62d0924-8cb7-4498-810c-53572c7d317b}" radius="0.01" x="0.333333" y="0.396994" z="0.769672"/>
+        <node id="{6efde86a-db4e-4d15-bc89-2c70828eea3b}" partId="{363214d6-0d9b-46b1-bb73-599423a6b1e9}" radius="0.01" x="0.324756" y="0.78355" z="0.5"/>
+        <node id="{716e85aa-8348-4f87-83d1-aefd1b4c254f}" partId="{0e9b2e10-bea2-4869-a579-c61514d1077d}" radius="0.01" x="0.396994" y="0.769672" z="0.666667"/>
+        <node id="{71737477-d1e8-45ba-bb50-bec16513375d}" partId="{363214d6-0d9b-46b1-bb73-599423a6b1e9}" radius="0.01" x="0.396994" y="0.769672" z="0.333333"/>
+        <node id="{718e800f-a544-45eb-93f1-068d5aba988a}" partId="{54b5071c-3ab6-482a-8181-656f6d225d51}" radius="0.01" x="0.675244" y="0.78355" z="0.5"/>
+        <node id="{7327fdc6-61a9-4711-8757-32c700f37a2f}" partId="{1f8b4bd5-c08a-48d6-9486-6bd04b5e1afa}" radius="0.01" x="0.603006" y="0.230328" z="0.666667"/>
+        <node id="{76484de3-14c6-4d7d-9879-e50e172f6962}" partId="{dd1418ef-89cd-4933-b429-631e5c883d65}" radius="0.01" x="0.5" y="0.675244" z="0.78355"/>
+        <node id="{77793d08-5b36-450e-9806-ae19da6a1b2a}" partId="{cca9ef24-7d27-40e3-a7ef-7920dbaaa379}" radius="0.01" x="0.666667" y="0.396994" z="0.230328"/>
+        <node id="{790ff92e-6f7c-4f7e-9e97-af0be3ab7119}" partId="{2e89f2b5-a36e-4f98-86bb-d7613587a279}" radius="0.01" x="0.5" y="0.166667" z="0.5"/>
+        <node id="{7cadc966-86d5-4d95-bccf-6c5231a9c4f7}" partId="{770af3ad-1b7a-49b6-86a8-dd3f967ee100}" radius="0.01" x="0.333333" y="0.396994" z="0.230328"/>
+        <node id="{7d36fd8c-298e-4f76-8317-49cd8e5bb9c0}" partId="{2e0ed2d9-5b50-452c-b2b5-466876f3a9ab}" radius="0.01" x="0.396994" y="0.769672" z="0.333333"/>
+        <node id="{7d6b9e3d-322f-4ba2-9275-7be87f77000a}" partId="{0f743902-6c5f-49d1-83e0-366b5c00ca27}" radius="0.01" x="0.833333" y="0.5" z="0.5"/>
+        <node id="{7f0eff71-b5de-4cf9-bcd8-b955f8c764b0}" partId="{50616f09-e6cd-4481-9fea-4f7f958eb6ca}" radius="0.01" x="0.5" y="0.833333" z="0.5"/>
+        <node id="{84c3fd74-5d61-4c46-8173-4f3f7f63fe34}" partId="{f496202a-2290-4cfa-bb5f-6fe5d5e00dbb}" radius="0.01" x="0.166667" y="0.5" z="0.5"/>
+        <node id="{859e004e-50b3-4643-bc95-8f49ae93624c}" partId="{c8f306e9-1fae-450a-aee3-1cffa8cb3b01}" radius="0.01" x="0.230328" y="0.333333" z="0.396994"/>
+        <node id="{85c81920-a55e-42eb-988f-f702a3982f73}" partId="{f6fec252-5636-41c6-96e4-24e9a1702aa9}" radius="0.01" x="0.603006" y="0.769672" z="0.666667"/>
+        <node id="{85dd0768-864f-4956-8467-30fadb01a7c3}" partId="{b0955a46-ea37-450d-9b7d-da23e733d0bf}" radius="0.01" x="0.333333" y="0.396994" z="0.230328"/>
+        <node id="{876c7fc3-f811-4b44-921e-54e90bd077d1}" partId="{35a691ac-77ef-4ea0-a7ea-b12fb3edb7d8}" radius="0.01" x="0.666667" y="0.396994" z="0.230328"/>
+        <node id="{88210b00-9716-42f2-be25-7bd2baeab7a3}" partId="{a0691a75-08e6-43ba-b517-2fd9764cee2e}" radius="0.01" x="0.666667" y="0.396994" z="0.769672"/>
+        <node id="{8849065e-e569-41e1-922a-66c4ec997855}" partId="{0e9b2e10-bea2-4869-a579-c61514d1077d}" radius="0.01" x="0.230328" y="0.666667" z="0.603006"/>
+        <node id="{88cef959-c92d-4c89-99f3-f6874ef94fb2}" partId="{1497f1eb-8446-4b02-bb85-87f1520bddb7}" radius="0.01" x="0.5" y="0.166667" z="0.5"/>
+        <node id="{8afe53e7-6292-4dda-a48a-d0526a171f50}" partId="{b846af9e-6243-4d00-a23d-17dc1039d313}" radius="0.01" x="0.769672" y="0.666667" z="0.396994"/>
+        <node id="{8beb5c89-3f98-431b-a522-9936e52b996b}" partId="{a4b82dcc-b339-4c6e-ab06-b9a0e4b1d832}" radius="0.01" x="0.324756" y="0.78355" z="0.5"/>
+        <node id="{8c1cec41-ed9d-4b4b-b80b-1fa14aad4f59}" partId="{d4037b86-f0fe-407f-b914-5b099d42acaf}" radius="0.01" x="0.5" y="0.324756" z="0.78355"/>
+        <node id="{8cbfc408-8736-4ab8-99c3-5770f141bd97}" partId="{882f31b2-cdbc-41c4-8498-29ded5895146}" radius="0.01" x="0.603006" y="0.769672" z="0.333333"/>
+        <node id="{8fdc2db0-a24b-4cad-b6e3-75402a4f8f17}" partId="{b816b4d3-f976-4846-a9bc-d9042385c426}" radius="0.01" x="0.230328" y="0.333333" z="0.396994"/>
+        <node id="{919427e8-f9a4-43d4-8d17-1938bc049e52}" partId="{bc7f721f-dfa5-4e49-850c-df3fda3ae531}" radius="0.01" x="0.230328" y="0.666667" z="0.603006"/>
+        <node id="{91d656d3-e5d9-4892-b302-7d2878d70577}" partId="{a4fb0df6-a80d-4028-9875-fd64606e2726}" radius="0.01" x="0.5" y="0.675244" z="0.78355"/>
+        <node id="{929dacb1-0997-4ee1-bae0-30ced9141e84}" partId="{54b5071c-3ab6-482a-8181-656f6d225d51}" radius="0.01" x="0.603006" y="0.769672" z="0.666667"/>
+        <node id="{94360b10-edb5-4a35-8e89-660a5f708d96}" partId="{c6623113-e3ad-4c5d-a17f-40968be715b4}" radius="0.01" x="0.333333" y="0.603006" z="0.230328"/>
+        <node id="{94530d6e-42d2-42cf-a9a8-206779567c14}" partId="{0f743902-6c5f-49d1-83e0-366b5c00ca27}" radius="0.01" x="0.769672" y="0.333333" z="0.396994"/>
+        <node id="{96d61fe5-74b5-4822-8b20-fbf23377bf63}" partId="{e622cd6e-b109-4a22-9b8d-bcae4de67233}" radius="0.01" x="0.396994" y="0.230328" z="0.333333"/>
+        <node id="{974508bb-7c50-4fba-8b59-6b16329f4a97}" partId="{8d2348e8-7ed2-4ace-82bc-6a10d2f2e534}" radius="0.01" x="0.324756" y="0.21645" z="0.5"/>
+        <node id="{98a06c4c-1a5f-4421-89ab-bdf4bc36d546}" partId="{8d2348e8-7ed2-4ace-82bc-6a10d2f2e534}" radius="0.01" x="0.5" y="0.166667" z="0.5"/>
+        <node id="{98bd2205-4f81-4cce-8dae-e4fea80ba4a4}" partId="{e62d0924-8cb7-4498-810c-53572c7d317b}" radius="0.01" x="0.5" y="0.324756" z="0.78355"/>
+        <node id="{99837e4e-1714-4bf2-aeb2-5f575fb705de}" partId="{12f34ced-1911-4641-8984-7ba78a5da26f}" radius="0.01" x="0.324756" y="0.21645" z="0.5"/>
+        <node id="{99e36e42-1e92-4a17-9f2e-ec829eb87a0c}" partId="{0395d392-d78e-4ed6-964b-60d34329642d}" radius="0.01" x="0.769672" y="0.333333" z="0.603006"/>
+        <node id="{9a5ac41a-5add-44d7-9280-fb957406ab7c}" partId="{bcabfba3-2477-400d-9e32-2cada32ef216}" radius="0.01" x="0.603006" y="0.230328" z="0.333333"/>
+        <node id="{9c0bc919-94a9-4f69-af05-26fd9b1e2eed}" partId="{12f34ced-1911-4641-8984-7ba78a5da26f}" radius="0.01" x="0.396994" y="0.230328" z="0.666667"/>
+        <node id="{9d7bc4b3-de71-4fe5-b519-edb840fd0b2e}" partId="{5adf900f-3c3a-452d-bb3f-c28e8ec329d0}" radius="0.01" x="0.5" y="0.833333" z="0.5"/>
+        <node id="{9ea4bd88-2352-48ce-982d-03172e070c6f}" partId="{36b6fa7d-574a-4309-8aaa-b4643cd59266}" radius="0.01" x="0.333333" y="0.603006" z="0.769672"/>
+        <node id="{9eda0853-3b96-4035-9181-8f0ccc770e79}" partId="{1cdd7eb4-0612-4f3b-84f3-08126257eee0}" radius="0.01" x="0.833333" y="0.5" z="0.5"/>
+        <node id="{9f1e10b3-e024-4da5-a123-199d66b90bcb}" partId="{69b70cd0-9316-4079-a915-7491c66a2180}" radius="0.01" x="0.78355" y="0.5" z="0.324756"/>
+        <node id="{a0e274e0-2b42-466b-b466-5dab4054946f}" partId="{e622cd6e-b109-4a22-9b8d-bcae4de67233}" radius="0.01" x="0.5" y="0.324756" z="0.21645"/>
+        <node id="{a14c351e-537f-4878-bd42-1f6b2c1c58b2}" partId="{c0423874-fe1e-42cf-ae4a-c11041d76039}" radius="0.01" x="0.21645" y="0.5" z="0.675244"/>
+        <node id="{a2df560a-4560-4c84-8ca7-00226c6be414}" partId="{71edd6c1-b200-4ac4-88eb-3fb90ffd4fc3}" radius="0.01" x="0.5" y="0.675244" z="0.21645"/>
+        <node id="{a6837b8e-c7b7-411a-b2e4-76f3aa146dd6}" partId="{28909cfc-687f-4979-8107-a2a02ec09903}" radius="0.01" x="0.666667" y="0.396994" z="0.769672"/>
+        <node id="{a6aaf182-0536-4fdb-b526-c0b12d4f2cc9}" partId="{bc7f721f-dfa5-4e49-850c-df3fda3ae531}" radius="0.01" x="0.333333" y="0.603006" z="0.769672"/>
+        <node id="{a6b9cfbb-e107-4e17-ac68-c47a21da3746}" partId="{6dd12129-caad-4f89-9580-a9b6f6047b2c}" radius="0.01" x="0.769672" y="0.333333" z="0.603006"/>
+        <node id="{a86df165-145d-451a-b6f4-e368c6bee1ac}" partId="{2e0ed2d9-5b50-452c-b2b5-466876f3a9ab}" radius="0.01" x="0.333333" y="0.603006" z="0.230328"/>
+        <node id="{a95a477f-5719-4d53-8884-25921f0bc0b3}" partId="{71edd6c1-b200-4ac4-88eb-3fb90ffd4fc3}" radius="0.01" x="0.333333" y="0.603006" z="0.230328"/>
+        <node id="{aabb321b-2d71-422f-96f1-fb9b427752b1}" partId="{35a691ac-77ef-4ea0-a7ea-b12fb3edb7d8}" radius="0.01" x="0.603006" y="0.230328" z="0.333333"/>
+        <node id="{ac0f7d54-7951-42cb-a853-66a101bc177d}" partId="{f9c82837-27f3-4e91-b8a3-458c9330b200}" radius="0.01" x="0.666667" y="0.603006" z="0.230328"/>
+        <node id="{ac43acf6-2719-4401-af99-f50129236842}" partId="{ad48f400-ea08-4fc5-b1c0-e84c4dba2d9e}" radius="0.01" x="0.166667" y="0.5" z="0.5"/>
+        <node id="{ac6714e3-dafc-41fb-90cd-5bfdf56486d9}" partId="{c0423874-fe1e-42cf-ae4a-c11041d76039}" radius="0.01" x="0.333333" y="0.603006" z="0.769672"/>
+        <node id="{ac90c2bc-7264-441f-9d3d-970e40c7e235}" partId="{832f3ea2-213b-41d8-8390-5bb0ad8008c8}" radius="0.01" x="0.396994" y="0.230328" z="0.666667"/>
+        <node id="{ade2568d-9020-4379-ac7b-1382cfa40230}" partId="{4dc40c74-72e5-4559-a42b-14fb1b22b118}" radius="0.01" x="0.5" y="0.833333" z="0.5"/>
+        <node id="{af8ffd5a-8609-43f5-8ed4-3f880086d985}" partId="{f9c82837-27f3-4e91-b8a3-458c9330b200}" radius="0.01" x="0.769672" y="0.666667" z="0.396994"/>
+        <node id="{afd297bf-6ba0-433e-92c5-7ce9af29dd1a}" partId="{26c11043-c1e9-4f26-beb0-fd03ff9038a7}" radius="0.01" x="0.603006" y="0.230328" z="0.666667"/>
+        <node id="{b04c3687-c884-4d13-96fc-8b446686353f}" partId="{b816b4d3-f976-4846-a9bc-d9042385c426}" radius="0.01" x="0.396994" y="0.230328" z="0.333333"/>
+        <node id="{b06b0335-5735-4a79-9354-cf883bce4902}" partId="{bba321c3-e04d-4919-9e1c-05a2049dc411}" radius="0.01" x="0.5" y="0.675244" z="0.21645"/>
+        <node id="{b0ac8cb9-f62a-4b15-b72c-6a30e757fb1e}" partId="{aa00e7e7-c5a5-4b22-b4a0-e436ef884e0e}" radius="0.01" x="0.5" y="0.833333" z="0.5"/>
+        <node id="{b1529a88-f55f-4b56-84e5-a5cb1051d700}" partId="{53300dc0-cc3a-4609-a3f3-fcbcc644b882}" radius="0.01" x="0.5" y="0.675244" z="0.21645"/>
+        <node id="{b1987114-e2a4-48d6-86e9-d1130a75d98d}" partId="{6a01f8dc-73bb-41c5-965e-1b87ebd5e069}" radius="0.01" x="0.21645" y="0.5" z="0.324756"/>
+        <node id="{b1e8fd56-2d65-45bd-9d9c-2d0e450cb601}" partId="{22e152ac-f9d5-43f6-bb22-8cc77393521c}" radius="0.01" x="0.5" y="0.5" z="0.166667"/>
+        <node id="{b20fd709-f778-4c8e-a36a-cd5cd0368e3a}" partId="{4f46c8ed-cae2-472e-8371-951163274fb9}" radius="0.01" x="0.230328" y="0.333333" z="0.603006"/>
+        <node id="{b33d4715-a4c7-4b73-b9ef-336974c63d90}" partId="{22e152ac-f9d5-43f6-bb22-8cc77393521c}" radius="0.01" x="0.333333" y="0.603006" z="0.230328"/>
+        <node id="{b35133ff-f6f8-47cb-a186-a2f71ad30a4b}" partId="{a0691a75-08e6-43ba-b517-2fd9764cee2e}" radius="0.01" x="0.5" y="0.5" z="0.833333"/>
+        <node id="{b5b9b445-dc07-462f-b0ef-c261527e20f3}" partId="{ae4538f5-3c76-4b89-bbf9-20bc60354c0b}" radius="0.01" x="0.769672" y="0.666667" z="0.396994"/>
+        <node id="{b62680f8-c080-49fc-8a5b-491e6f78207d}" partId="{b5aed808-3746-4736-9d98-90342d59fa66}" radius="0.01" x="0.5" y="0.675244" z="0.78355"/>
+        <node id="{b7a7c0ac-7953-4acc-b9b9-359fa34249d3}" partId="{35a691ac-77ef-4ea0-a7ea-b12fb3edb7d8}" radius="0.01" x="0.769672" y="0.333333" z="0.396994"/>
+        <node id="{bb429cb1-f8b8-4907-b007-19cc013a0b90}" partId="{4dc40c74-72e5-4559-a42b-14fb1b22b118}" radius="0.01" x="0.603006" y="0.769672" z="0.666667"/>
+        <node id="{bb6bb62f-de2b-4582-a94d-3e34a6e90293}" partId="{26c11043-c1e9-4f26-beb0-fd03ff9038a7}" radius="0.01" x="0.769672" y="0.333333" z="0.603006"/>
+        <node id="{bf18db4c-9683-4769-808c-46313f6650eb}" partId="{5adf900f-3c3a-452d-bb3f-c28e8ec329d0}" radius="0.01" x="0.675244" y="0.78355" z="0.5"/>
+        <node id="{bfff1fa5-4928-4a02-94e6-dfd7fa0f6626}" partId="{b5aed808-3746-4736-9d98-90342d59fa66}" radius="0.01" x="0.603006" y="0.769672" z="0.666667"/>
+        <node id="{c0a3a951-8b1d-4e38-87f0-92c9739e774d}" partId="{36c42fa5-5110-4d48-9c2d-26642d29dd0f}" radius="0.01" x="0.230328" y="0.666667" z="0.396994"/>
+        <node id="{c13e1f47-84fd-4453-baa1-79aa7f1d6587}" partId="{88e3bebb-82c5-4eea-a072-0e4030837ce7}" radius="0.01" x="0.333333" y="0.396994" z="0.769672"/>
+        <node id="{c38c46f8-a094-4c1a-9a37-6ab739c91622}" partId="{83349077-7149-4042-b358-694ba21b46bb}" radius="0.01" x="0.230328" y="0.333333" z="0.603006"/>
+        <node id="{c395a415-7eab-4772-b6f9-e6130ad9fd5b}" partId="{16b90461-93e0-4306-aff1-9dec64311876}" radius="0.01" x="0.769672" y="0.666667" z="0.603006"/>
+        <node id="{c5100c05-74a6-4f8a-8a48-d10e63f9e653}" partId="{02c7d514-ef8f-4fd8-8e35-e0c9902ecd82}" radius="0.01" x="0.333333" y="0.603006" z="0.769672"/>
+        <node id="{c578508c-01e8-4b60-924e-8bf847305414}" partId="{4f46c8ed-cae2-472e-8371-951163274fb9}" radius="0.01" x="0.166667" y="0.5" z="0.5"/>
+        <node id="{c5ae42ab-6315-4c91-973a-3e33239930bb}" partId="{882f31b2-cdbc-41c4-8498-29ded5895146}" radius="0.01" x="0.769672" y="0.666667" z="0.396994"/>
+        <node id="{c6739060-4387-46c5-ba1d-e8b740115726}" partId="{bd916b3e-e3a0-43cc-991f-9e214f237aec}" radius="0.01" x="0.603006" y="0.230328" z="0.666667"/>
+        <node id="{c889e9b3-bb4a-4d0c-9cd3-13604dea1ff8}" partId="{2ae8b3ff-c718-4b3c-8e95-8fc56e7fc0f8}" radius="0.01" x="0.603006" y="0.230328" z="0.333333"/>
+        <node id="{cb5e8591-a7d1-4b45-a0e4-404bedcb8530}" partId="{c8f306e9-1fae-450a-aee3-1cffa8cb3b01}" radius="0.01" x="0.324756" y="0.21645" z="0.5"/>
+        <node id="{cd3d55ff-a04f-4674-bd40-47104bfd8f3b}" partId="{5adf900f-3c3a-452d-bb3f-c28e8ec329d0}" radius="0.01" x="0.603006" y="0.769672" z="0.333333"/>
+        <node id="{cdb2e48e-d0c4-4e8d-9122-23a6bc46a7b4}" partId="{22e152ac-f9d5-43f6-bb22-8cc77393521c}" radius="0.01" x="0.333333" y="0.396994" z="0.230328"/>
+        <node id="{ced6b6ef-9c31-46f7-87df-24768f5254a1}" partId="{c6623113-e3ad-4c5d-a17f-40968be715b4}" radius="0.01" x="0.333333" y="0.396994" z="0.230328"/>
+        <node id="{cf158886-4a86-464b-a497-a88449b594d5}" partId="{16b90461-93e0-4306-aff1-9dec64311876}" radius="0.01" x="0.769672" y="0.666667" z="0.396994"/>
+        <node id="{d0bd7f5f-1ce9-453a-9688-0963cd2299e2}" partId="{76d2addf-ca64-4263-a223-69acbc5de1ab}" radius="0.01" x="0.5" y="0.324756" z="0.21645"/>
+        <node id="{d611152a-4814-4223-b5f5-28996f5f1e8f}" partId="{ad48f400-ea08-4fc5-b1c0-e84c4dba2d9e}" radius="0.01" x="0.230328" y="0.333333" z="0.603006"/>
+        <node id="{d6c4ce15-4475-4f95-9384-16261410851d}" partId="{54b5071c-3ab6-482a-8181-656f6d225d51}" radius="0.01" x="0.769672" y="0.666667" z="0.603006"/>
+        <node id="{d740f1bc-331c-4628-8993-03a0f58cb252}" partId="{013f97d9-2f72-4450-a79c-c6d6c3141be3}" radius="0.01" x="0.5" y="0.675244" z="0.21645"/>
+        <node id="{d7b5fc45-cce5-44fd-82b9-dbbf7f363739}" partId="{6a01f8dc-73bb-41c5-965e-1b87ebd5e069}" radius="0.01" x="0.230328" y="0.333333" z="0.396994"/>
+        <node id="{d8123611-815f-494a-96e6-bc0acab01d4f}" partId="{b5aed808-3746-4736-9d98-90342d59fa66}" radius="0.01" x="0.666667" y="0.603006" z="0.769672"/>
+        <node id="{d9cd706f-678e-4436-a8ad-d9ef18d5d356}" partId="{1497f1eb-8446-4b02-bb85-87f1520bddb7}" radius="0.01" x="0.396994" y="0.230328" z="0.333333"/>
+        <node id="{dabc63b7-7349-47ee-a58e-3cca79168a36}" partId="{bd916b3e-e3a0-43cc-991f-9e214f237aec}" radius="0.01" x="0.5" y="0.166667" z="0.5"/>
+        <node id="{db8f162c-e83b-43bc-b11f-8858f06ab641}" partId="{bba321c3-e04d-4919-9e1c-05a2049dc411}" radius="0.01" x="0.603006" y="0.769672" z="0.333333"/>
+        <node id="{dbe97433-f80f-4a99-b4c7-e0c36bda1ebf}" partId="{b816b4d3-f976-4846-a9bc-d9042385c426}" radius="0.01" x="0.324756" y="0.21645" z="0.5"/>
+        <node id="{dd805d60-f0b1-4d6a-b3fb-c1d155c3d05a}" partId="{bd916b3e-e3a0-43cc-991f-9e214f237aec}" radius="0.01" x="0.396994" y="0.230328" z="0.666667"/>
+        <node id="{de104d46-d181-4f62-9a32-91401c2e7254}" partId="{89b891e5-0a8a-49d8-b330-c9173d9be03e}" radius="0.01" x="0.603006" y="0.769672" z="0.666667"/>
+        <node id="{e15bd584-8ec5-42d6-a8ba-68ddfab30146}" partId="{bba321c3-e04d-4919-9e1c-05a2049dc411}" radius="0.01" x="0.396994" y="0.769672" z="0.333333"/>
+        <node id="{e1cd0415-bea6-419f-806c-235dc2d5ee86}" partId="{279fee4c-a8b7-48e7-bca1-466c046e27dd}" radius="0.01" x="0.78355" y="0.5" z="0.675244"/>
+        <node id="{e207631f-66ee-4b5c-a5f9-399f8d32dce0}" partId="{a4fb0df6-a80d-4028-9875-fd64606e2726}" radius="0.01" x="0.666667" y="0.603006" z="0.769672"/>
+        <node id="{e2cfa214-eaa0-4e10-a769-f9bbd71af566}" partId="{1cdd7eb4-0612-4f3b-84f3-08126257eee0}" radius="0.01" x="0.769672" y="0.333333" z="0.603006"/>
+        <node id="{e502c27b-a503-454f-a4db-ca21d80b951b}" partId="{b846af9e-6243-4d00-a23d-17dc1039d313}" radius="0.01" x="0.666667" y="0.603006" z="0.230328"/>
+        <node id="{e81d2947-d987-4c50-9909-4847817033ea}" partId="{4a68545a-eabf-420e-999a-96982cab64c5}" radius="0.01" x="0.230328" y="0.666667" z="0.396994"/>
+        <node id="{e86395aa-c96d-43fd-b431-86b27416675e}" partId="{832f3ea2-213b-41d8-8390-5bb0ad8008c8}" radius="0.01" x="0.5" y="0.324756" z="0.78355"/>
+        <node id="{eb43d911-b4f8-47bb-a000-ae914b68166b}" partId="{882f31b2-cdbc-41c4-8498-29ded5895146}" radius="0.01" x="0.675244" y="0.78355" z="0.5"/>
+        <node id="{ebb78bd5-1c49-41e3-bdac-3364fd1ec3e0}" partId="{69b70cd0-9316-4079-a915-7491c66a2180}" radius="0.01" x="0.833333" y="0.5" z="0.5"/>
+        <node id="{ec20b595-f725-415d-97b9-90a00a3f46c0}" partId="{2ae8b3ff-c718-4b3c-8e95-8fc56e7fc0f8}" radius="0.01" x="0.396994" y="0.230328" z="0.333333"/>
+        <node id="{ec4abe25-5649-4e24-9f4e-04bcc9553800}" partId="{ed828742-0bd9-40db-9d3b-c01ab73aaa97}" radius="0.01" x="0.78355" y="0.5" z="0.324756"/>
+        <node id="{ed00da4e-9dd1-47b4-9487-5df4070d2afe}" partId="{0b0d2329-8060-44ff-883c-8bc503f4f573}" radius="0.01" x="0.769672" y="0.333333" z="0.396994"/>
+        <node id="{ed83d889-cc15-4dcf-995d-9f1e8db268d3}" partId="{98d9b782-5d24-43dd-a7a7-45800f1eaefe}" radius="0.01" x="0.675244" y="0.21645" z="0.5"/>
+        <node id="{ee66e4dd-e266-4a95-b76e-a4e57834743e}" partId="{2e0ed2d9-5b50-452c-b2b5-466876f3a9ab}" radius="0.01" x="0.230328" y="0.666667" z="0.396994"/>
+        <node id="{ef1bda57-4779-44f8-9372-f4cf8c1ac589}" partId="{26c11043-c1e9-4f26-beb0-fd03ff9038a7}" radius="0.01" x="0.675244" y="0.21645" z="0.5"/>
+        <node id="{ef8b0510-69ce-4834-8870-ca9a9b56e0b1}" partId="{dd1418ef-89cd-4933-b429-631e5c883d65}" radius="0.01" x="0.396994" y="0.769672" z="0.666667"/>
+        <node id="{f03f4f30-e9e6-4cc9-a878-24cf3500efb4}" partId="{a4fb0df6-a80d-4028-9875-fd64606e2726}" radius="0.01" x="0.5" y="0.5" z="0.833333"/>
+        <node id="{f07c7b43-a3bc-45e1-92d7-d9adee9a35f7}" partId="{cca9ef24-7d27-40e3-a7ef-7920dbaaa379}" radius="0.01" x="0.5" y="0.324756" z="0.21645"/>
+        <node id="{f110e242-b9e2-4ff7-8044-9647bf1502e3}" partId="{98d9b782-5d24-43dd-a7a7-45800f1eaefe}" radius="0.01" x="0.5" y="0.166667" z="0.5"/>
+        <node id="{f21ef99f-6391-4090-9f21-66e7388dcab9}" partId="{a4b82dcc-b339-4c6e-ab06-b9a0e4b1d832}" radius="0.01" x="0.230328" y="0.666667" z="0.396994"/>
+        <node id="{f295245f-dca0-4351-ae20-99c93b473556}" partId="{678dbbd0-9aa4-468b-ba41-ba572040eb29}" radius="0.01" x="0.666667" y="0.603006" z="0.769672"/>
+        <node id="{f2d1d643-34ca-4631-bc89-b147a3e0dbf8}" partId="{4f46c8ed-cae2-472e-8371-951163274fb9}" radius="0.01" x="0.230328" y="0.333333" z="0.396994"/>
+        <node id="{f2fc65db-fe3d-4791-9fed-5e347094e6b1}" partId="{ed828742-0bd9-40db-9d3b-c01ab73aaa97}" radius="0.01" x="0.769672" y="0.666667" z="0.396994"/>
+        <node id="{f3d38f80-8117-44cf-ba33-1f219b352377}" partId="{6dd12129-caad-4f89-9580-a9b6f6047b2c}" radius="0.01" x="0.675244" y="0.21645" z="0.5"/>
+        <node id="{f403d97a-6217-4b11-9271-6153d9b9fb46}" partId="{0395d392-d78e-4ed6-964b-60d34329642d}" radius="0.01" x="0.78355" y="0.5" z="0.675244"/>
+        <node id="{f42a245f-e933-4ee5-8eff-aab1362a9188}" partId="{ed828742-0bd9-40db-9d3b-c01ab73aaa97}" radius="0.01" x="0.833333" y="0.5" z="0.5"/>
+        <node id="{f43fa536-57b7-4d8b-82eb-da5c02b69a46}" partId="{bf67a7e4-ed39-4695-a089-709de19eaaa9}" radius="0.01" x="0.5" y="0.833333" z="0.5"/>
+        <node id="{f52f9d81-0a72-42f1-b134-8940e5d48b3a}" partId="{a4b82dcc-b339-4c6e-ab06-b9a0e4b1d832}" radius="0.01" x="0.230328" y="0.666667" z="0.603006"/>
+        <node id="{f68eff8b-dd35-40e4-a399-964e30cca7a5}" partId="{1f8b4bd5-c08a-48d6-9486-6bd04b5e1afa}" radius="0.01" x="0.666667" y="0.396994" z="0.769672"/>
+        <node id="{f68fdbd2-e677-4da3-83df-414042fd757c}" partId="{0b0d2329-8060-44ff-883c-8bc503f4f573}" radius="0.01" x="0.666667" y="0.396994" z="0.230328"/>
+        <node id="{f6eefe40-9788-4b80-82d0-f00fbf0f05bc}" partId="{28909cfc-687f-4979-8107-a2a02ec09903}" radius="0.01" x="0.769672" y="0.333333" z="0.603006"/>
+        <node id="{f83b1eed-5156-4226-99b3-fac5a4afe16c}" partId="{1f8b4bd5-c08a-48d6-9486-6bd04b5e1afa}" radius="0.01" x="0.5" y="0.324756" z="0.78355"/>
+        <node id="{f8deeb58-e2be-4c33-999f-3f6a6dceb195}" partId="{50616f09-e6cd-4481-9fea-4f7f958eb6ca}" radius="0.01" x="0.603006" y="0.769672" z="0.666667"/>
+        <node id="{fc0426eb-07bd-44f5-8257-5ad32304eb60}" partId="{0abaddc5-ffad-4761-93e3-63670423acfd}" radius="0.01" x="0.5" y="0.5" z="0.166667"/>
+        <node id="{fc3c43bb-3ea7-4453-bd1f-3a5a436c9025}" partId="{12f34ced-1911-4641-8984-7ba78a5da26f}" radius="0.01" x="0.230328" y="0.333333" z="0.603006"/>
+        <node id="{fc53e319-af36-4a9c-be11-3210d0554ac4}" partId="{c8f306e9-1fae-450a-aee3-1cffa8cb3b01}" radius="0.01" x="0.230328" y="0.333333" z="0.603006"/>
+        <node id="{fc851d9a-011e-4393-a655-41456bb7feb4}" partId="{36c42fa5-5110-4d48-9c2d-26642d29dd0f}" radius="0.01" x="0.166667" y="0.5" z="0.5"/>
+        <node id="{fe877ed0-f36a-4d40-94ac-eb49a17e67e8}" partId="{83349077-7149-4042-b358-694ba21b46bb}" radius="0.01" x="0.21645" y="0.5" z="0.675244"/>
+        <node id="{fef67dc6-1a8e-41d2-86f8-558f2477a1ac}" partId="{363214d6-0d9b-46b1-bb73-599423a6b1e9}" radius="0.01" x="0.230328" y="0.666667" z="0.396994"/>
+        <node id="{ffe0d991-2f50-4c12-b6fa-85d38ec8d22c}" partId="{89b891e5-0a8a-49d8-b330-c9173d9be03e}" radius="0.01" x="0.769672" y="0.666667" z="0.603006"/>
+    </nodes>
+    <edges>
+        <edge from="{c6739060-4387-46c5-ba1d-e8b740115726}" id="{015e94b4-8abe-4aac-8303-0e0bcc5d499d}" partId="{bd916b3e-e3a0-43cc-991f-9e214f237aec}" to="{dd805d60-f0b1-4d6a-b3fb-c1d155c3d05a}"/>
+        <edge from="{039e2b13-0437-4e27-bad4-97058020b3bd}" id="{01605dd0-58d7-431b-b826-9abad241045d}" partId="{83ecf666-f8d2-4f55-95ff-95e6ace251ae}" to="{57866ff7-8ad7-4741-968b-8d746a160e37}"/>
+        <edge from="{dbe97433-f80f-4a99-b4c7-e0c36bda1ebf}" id="{028ab1f2-f9e8-4640-a1a1-094179c6285d}" partId="{b816b4d3-f976-4846-a9bc-d9042385c426}" to="{8fdc2db0-a24b-4cad-b6e3-75402a4f8f17}"/>
+        <edge from="{09d43997-fed1-4959-ad41-d192307de964}" id="{02f9b99d-37d1-4632-a51b-e40613f1ef6a}" partId="{bcabfba3-2477-400d-9e32-2cada32ef216}" to="{9a5ac41a-5add-44d7-9280-fb957406ab7c}"/>
+        <edge from="{08dba2cd-ba8c-4284-ae3e-cb75d74156b8}" id="{0332b974-2d41-4604-b801-683659022a8c}" partId="{4dc40c74-72e5-4559-a42b-14fb1b22b118}" to="{ade2568d-9020-4379-ac7b-1382cfa40230}"/>
+        <edge from="{ec20b595-f725-415d-97b9-90a00a3f46c0}" id="{034958c8-8061-484e-8c7e-ad8efdcc3f58}" partId="{2ae8b3ff-c718-4b3c-8e95-8fc56e7fc0f8}" to="{c889e9b3-bb4a-4d0c-9cd3-13604dea1ff8}"/>
+        <edge from="{aabb321b-2d71-422f-96f1-fb9b427752b1}" id="{052a25c7-ec89-4a63-864c-244fa2dcafbd}" partId="{35a691ac-77ef-4ea0-a7ea-b12fb3edb7d8}" to="{876c7fc3-f811-4b44-921e-54e90bd077d1}"/>
+        <edge from="{8beb5c89-3f98-431b-a522-9936e52b996b}" id="{0677b6b4-5531-463c-8c85-7649ea4f2221}" partId="{a4b82dcc-b339-4c6e-ab06-b9a0e4b1d832}" to="{f21ef99f-6391-4090-9f21-66e7388dcab9}"/>
+        <edge from="{c13e1f47-84fd-4453-baa1-79aa7f1d6587}" id="{084f1aa6-8ad1-4549-9a69-edd0cac959ed}" partId="{88e3bebb-82c5-4eea-a072-0e4030837ce7}" to="{1fade169-fe2d-4d9b-89cf-f2bfe47fc25f}"/>
+        <edge from="{3789c3ae-6e1a-43d6-8588-19a80cb96a63}" id="{092a3247-718e-468a-bc4a-31c8a65c9d78}" partId="{50616f09-e6cd-4481-9fea-4f7f958eb6ca}" to="{f8deeb58-e2be-4c33-999f-3f6a6dceb195}"/>
+        <edge from="{718e800f-a544-45eb-93f1-068d5aba988a}" id="{0b8ca4d4-9bea-4e1f-9b4a-44e7f1b2e1a6}" partId="{54b5071c-3ab6-482a-8181-656f6d225d51}" to="{929dacb1-0997-4ee1-bae0-30ced9141e84}"/>
+        <edge from="{39f879af-77a0-480b-8be8-843b48c4c939}" id="{0c6d871d-649f-4913-b126-f78206a6e371}" partId="{57cf22f4-7337-422b-a555-ac64ac4c6c96}" to="{6ade264f-1663-486e-8446-00c0f80ee60b}"/>
+        <edge from="{a6aaf182-0536-4fdb-b526-c0b12d4f2cc9}" id="{113b320b-6581-4539-abc5-6adca7ea6e53}" partId="{bc7f721f-dfa5-4e49-850c-df3fda3ae531}" to="{353548b6-cbc2-4c22-9358-76960b19d43a}"/>
+        <edge from="{0e255d83-a5e6-4546-a907-46fe9531dae5}" id="{12b23e2e-eb02-4b6a-b0a3-68d7fcd842f0}" partId="{bcabfba3-2477-400d-9e32-2cada32ef216}" to="{09d43997-fed1-4959-ad41-d192307de964}"/>
+        <edge from="{259e9d69-ddd5-480c-b04c-daf1b3b9c97b}" id="{13081391-759e-46b3-8e0c-401e23076cf8}" partId="{36b6fa7d-574a-4309-8aaa-b4643cd59266}" to="{9ea4bd88-2352-48ce-982d-03172e070c6f}"/>
+        <edge from="{f295245f-dca0-4351-ae20-99c93b473556}" id="{1448b37f-4911-4771-86b7-037ed0fcc5aa}" partId="{678dbbd0-9aa4-468b-ba41-ba572040eb29}" to="{50fd9872-bf6e-42b8-94b1-91d7681a5c10}"/>
+        <edge from="{a95a477f-5719-4d53-8884-25921f0bc0b3}" id="{153ecb9f-c884-4db3-b04a-7002f4d80a44}" partId="{71edd6c1-b200-4ac4-88eb-3fb90ffd4fc3}" to="{a2df560a-4560-4c84-8ca7-00226c6be414}"/>
+        <edge from="{f68eff8b-dd35-40e4-a399-964e30cca7a5}" id="{16d10a72-0737-489b-b37e-3225fbb060ec}" partId="{1f8b4bd5-c08a-48d6-9486-6bd04b5e1afa}" to="{f83b1eed-5156-4226-99b3-fac5a4afe16c}"/>
+        <edge from="{4d7db2c4-7749-425d-8385-eafffb929ef7}" id="{175cd0f2-4076-4fb8-9942-b45245b41fea}" partId="{ae4538f5-3c76-4b89-bbf9-20bc60354c0b}" to="{0c33565c-1202-4a86-92ec-1ad35d9d3629}"/>
+        <edge from="{f43fa536-57b7-4d8b-82eb-da5c02b69a46}" id="{180952d5-e90a-4bed-b07b-2ce24c8613fc}" partId="{bf67a7e4-ed39-4695-a089-709de19eaaa9}" to="{3586b33c-de41-4d36-bcb2-0783cb52764d}"/>
+        <edge from="{b5b9b445-dc07-462f-b0ef-c261527e20f3}" id="{1abf2b51-b1c4-49a3-8549-d84bd4da55de}" partId="{ae4538f5-3c76-4b89-bbf9-20bc60354c0b}" to="{4d7db2c4-7749-425d-8385-eafffb929ef7}"/>
+        <edge from="{5b657a2e-a6a8-4ca7-becf-fd5a43df9149}" id="{1ad9b1ff-f790-428f-a90c-f1f26a5f9331}" partId="{83ecf666-f8d2-4f55-95ff-95e6ace251ae}" to="{039e2b13-0437-4e27-bad4-97058020b3bd}"/>
+        <edge from="{4e53ddb3-4bac-4486-9b72-1b0d50279e8c}" id="{1af4000f-3920-4cc7-b424-c5961ec5b411}" partId="{2e89f2b5-a36e-4f98-86bb-d7613587a279}" to="{790ff92e-6f7c-4f7e-9e97-af0be3ab7119}"/>
+        <edge from="{42a184a8-9e43-40a8-82d2-feffb3a065fa}" id="{1ef5ffcd-4544-4458-8295-6aa7f2b787fc}" partId="{44edcd7f-70c9-4986-afb3-84941c7f453e}" to="{62858ad7-82b4-49a4-98d4-ca1f1f76b9ac}"/>
+        <edge from="{c578508c-01e8-4b60-924e-8bf847305414}" id="{1f06183d-8c80-4340-957f-bab3ac998ce3}" partId="{4f46c8ed-cae2-472e-8371-951163274fb9}" to="{f2d1d643-34ca-4631-bc89-b147a3e0dbf8}"/>
+        <edge from="{fef67dc6-1a8e-41d2-86f8-558f2477a1ac}" id="{1fac65bb-98b0-4734-9da3-c8a1c3658052}" partId="{363214d6-0d9b-46b1-bb73-599423a6b1e9}" to="{6efde86a-db4e-4d15-bc89-2c70828eea3b}"/>
+        <edge from="{f68fdbd2-e677-4da3-83df-414042fd757c}" id="{2065a8f6-948d-4c1c-9785-1545c369e423}" partId="{0b0d2329-8060-44ff-883c-8bc503f4f573}" to="{0b2793f7-e027-43c7-9d34-2496726ee9e2}"/>
+        <edge from="{6e8df06a-059c-42eb-a3b0-834fbd2ba9f5}" id="{2141acb8-9332-40d4-b71e-ec85600b4879}" partId="{e62d0924-8cb7-4498-810c-53572c7d317b}" to="{98bd2205-4f81-4cce-8dae-e4fea80ba4a4}"/>
+        <edge from="{ed00da4e-9dd1-47b4-9487-5df4070d2afe}" id="{2180f98a-a470-49e8-a87a-f5980f1df5b3}" partId="{0b0d2329-8060-44ff-883c-8bc503f4f573}" to="{f68fdbd2-e677-4da3-83df-414042fd757c}"/>
+        <edge from="{8c1cec41-ed9d-4b4b-b80b-1fa14aad4f59}" id="{21b73de6-d04c-40e4-b62c-73083486dde5}" partId="{d4037b86-f0fe-407f-b914-5b099d42acaf}" to="{12ae5276-8aa9-4dcd-8e0d-0f83ec57b0f9}"/>
+        <edge from="{2d86899c-0965-455a-88a4-031f5303df55}" id="{21ea733f-8480-4027-93ac-c0d9e56a8a95}" partId="{c0423874-fe1e-42cf-ae4a-c11041d76039}" to="{a14c351e-537f-4878-bd42-1f6b2c1c58b2}"/>
+        <edge from="{ac0f7d54-7951-42cb-a853-66a101bc177d}" id="{21f36281-babe-4f1d-adf5-f5779d6149b3}" partId="{f9c82837-27f3-4e91-b8a3-458c9330b200}" to="{262963d5-0312-4df0-ad59-27d4015c9447}"/>
+        <edge from="{552d9ce1-38cf-4abc-996b-16d6b117c3c9}" id="{21f5e090-690f-4a98-8416-dd1942ca8eef}" partId="{b846af9e-6243-4d00-a23d-17dc1039d313}" to="{e502c27b-a503-454f-a4db-ca21d80b951b}"/>
+        <edge from="{62858ad7-82b4-49a4-98d4-ca1f1f76b9ac}" id="{24655762-c876-4729-a77e-96a95008b620}" partId="{44edcd7f-70c9-4986-afb3-84941c7f453e}" to="{2c466bad-8241-4ad9-b83a-f12a15a4f22d}"/>
+        <edge from="{b06b0335-5735-4a79-9354-cf883bce4902}" id="{24756034-1809-4fba-a7cf-ac17a1688bbc}" partId="{bba321c3-e04d-4919-9e1c-05a2049dc411}" to="{e15bd584-8ec5-42d6-a8ba-68ddfab30146}"/>
+        <edge from="{3f8e4834-1fdb-4f8e-b05f-602296f2f6d8}" id="{247986e6-e467-4eb6-9561-c36db2e4562d}" partId="{c6623113-e3ad-4c5d-a17f-40968be715b4}" to="{94360b10-edb5-4a35-8e89-660a5f708d96}"/>
+        <edge from="{91d656d3-e5d9-4892-b302-7d2878d70577}" id="{261e0422-2c03-4669-b921-7a1767f580d0}" partId="{a4fb0df6-a80d-4028-9875-fd64606e2726}" to="{f03f4f30-e9e6-4cc9-a878-24cf3500efb4}"/>
+        <edge from="{a6837b8e-c7b7-411a-b2e4-76f3aa146dd6}" id="{26609b19-f3ad-4859-9b44-2b4b5dc23168}" partId="{28909cfc-687f-4979-8107-a2a02ec09903}" to="{2fec577f-01b2-43d7-9e03-ad12028e75da}"/>
+        <edge from="{bb6bb62f-de2b-4582-a94d-3e34a6e90293}" id="{2763e095-54b4-463e-a281-009ddabd339d}" partId="{26c11043-c1e9-4f26-beb0-fd03ff9038a7}" to="{afd297bf-6ba0-433e-92c5-7ce9af29dd1a}"/>
+        <edge from="{1e618107-708f-4a51-b3bc-2c86717292d3}" id="{27782384-09ab-429a-8d1a-4b599598c0f0}" partId="{98d9b782-5d24-43dd-a7a7-45800f1eaefe}" to="{ed83d889-cc15-4dcf-995d-9f1e8db268d3}"/>
+        <edge from="{f6eefe40-9788-4b80-82d0-f00fbf0f05bc}" id="{28f693db-08c4-4ae7-a16e-5a086399b2cc}" partId="{28909cfc-687f-4979-8107-a2a02ec09903}" to="{a6837b8e-c7b7-411a-b2e4-76f3aa146dd6}"/>
+        <edge from="{15b746c8-8f2e-4224-a800-2deff948a0de}" id="{29dcc835-fb31-482f-84c9-857493ba3236}" partId="{0f743902-6c5f-49d1-83e0-366b5c00ca27}" to="{94530d6e-42d2-42cf-a9a8-206779567c14}"/>
+        <edge from="{ac43acf6-2719-4401-af99-f50129236842}" id="{2aa19645-1418-4f11-b6f5-e54de1b00399}" partId="{ad48f400-ea08-4fc5-b1c0-e84c4dba2d9e}" to="{d611152a-4814-4223-b5f5-28996f5f1e8f}"/>
+        <edge from="{20976fad-4b2b-4366-8f4a-9be20ca4f7f4}" id="{2d03b37b-93e9-4921-aeb5-bb3897af0898}" partId="{53300dc0-cc3a-4609-a3f3-fcbcc644b882}" to="{b1529a88-f55f-4b56-84e5-a5cb1051d700}"/>
+        <edge from="{99e36e42-1e92-4a17-9f2e-ec829eb87a0c}" id="{2da2c613-70fe-4ede-80ce-42ffae23ad18}" partId="{0395d392-d78e-4ed6-964b-60d34329642d}" to="{f403d97a-6217-4b11-9271-6153d9b9fb46}"/>
+        <edge from="{3586b33c-de41-4d36-bcb2-0783cb52764d}" id="{2e90f655-87cf-4666-b771-bcdd46acd2a8}" partId="{bf67a7e4-ed39-4695-a089-709de19eaaa9}" to="{3778936f-e63a-4b08-9f26-33366d5c475a}"/>
+        <edge from="{b04c3687-c884-4d13-96fc-8b446686353f}" id="{2ec48d9a-225e-4617-969e-0c33c80cdf0c}" partId="{b816b4d3-f976-4846-a9bc-d9042385c426}" to="{dbe97433-f80f-4a99-b4c7-e0c36bda1ebf}"/>
+        <edge from="{e1cd0415-bea6-419f-806c-235dc2d5ee86}" id="{2ec9c512-08b6-45d4-a3ce-600c27f9f5fe}" partId="{279fee4c-a8b7-48e7-bca1-466c046e27dd}" to="{04f12430-ecdd-4578-8ef8-079ecabbb475}"/>
+        <edge from="{262963d5-0312-4df0-ad59-27d4015c9447}" id="{2ee6db9b-4fb8-4e7f-b4fd-c88d1d1db033}" partId="{f9c82837-27f3-4e91-b8a3-458c9330b200}" to="{af8ffd5a-8609-43f5-8ed4-3f880086d985}"/>
+        <edge from="{4e1e847f-d000-4f98-a34b-cc3cffe1ec36}" id="{3022e42d-a64e-46f7-a65f-c287f4f9f0cb}" partId="{83349077-7149-4042-b358-694ba21b46bb}" to="{fe877ed0-f36a-4d40-94ac-eb49a17e67e8}"/>
+        <edge from="{5c17bf37-61dc-49c0-b0f5-bf1a09683105}" id="{304dbf8c-6787-4985-b00a-ceab4f70d39f}" partId="{832f3ea2-213b-41d8-8390-5bb0ad8008c8}" to="{e86395aa-c96d-43fd-b431-86b27416675e}"/>
+        <edge from="{0950f45c-b56e-4f67-a12e-74704130ce34}" id="{31fb4d10-cd51-4869-9aea-2fe9793aab9a}" partId="{2048197c-5d25-4350-8b69-bbc6c92e14c1}" to="{4bc3b64e-bc32-4c5c-85ba-423c6299ba45}"/>
+        <edge from="{4eb54749-4ea3-40a5-9efc-a6c419a3257e}" id="{3348acc1-aaf0-4dc9-a5c5-519377d9d13a}" partId="{6a01f8dc-73bb-41c5-965e-1b87ebd5e069}" to="{d7b5fc45-cce5-44fd-82b9-dbbf7f363739}"/>
+        <edge from="{2fec577f-01b2-43d7-9e03-ad12028e75da}" id="{34d6a419-077b-4a1b-bd39-039b730d81c6}" partId="{28909cfc-687f-4979-8107-a2a02ec09903}" to="{f6eefe40-9788-4b80-82d0-f00fbf0f05bc}"/>
+        <edge from="{007b7fec-1a97-46d2-b457-d321e11cb4e6}" id="{35a66814-d975-4af2-8158-f1d74cc48f5d}" partId="{b0955a46-ea37-450d-9b7d-da23e733d0bf}" to="{85dd0768-864f-4956-8467-30fadb01a7c3}"/>
+        <edge from="{94530d6e-42d2-42cf-a9a8-206779567c14}" id="{369930e3-ad82-4745-a689-3931ab210ac0}" partId="{0f743902-6c5f-49d1-83e0-366b5c00ca27}" to="{7d6b9e3d-322f-4ba2-9275-7be87f77000a}"/>
+        <edge from="{4c3b46fa-b699-4a04-9634-a1fc3987e96f}" id="{3a01a6cf-f4b9-4108-a1db-a55c72643a3f}" partId="{013f97d9-2f72-4450-a79c-c6d6c3141be3}" to="{0c256fe2-23db-4bb4-9dd1-f2572b3239ec}"/>
+        <edge from="{a0e274e0-2b42-466b-b466-5dab4054946f}" id="{3b1adbf7-76d7-4928-8632-303a5ff4eb8e}" partId="{e622cd6e-b109-4a22-9b8d-bcae4de67233}" to="{96d61fe5-74b5-4822-8b20-fbf23377bf63}"/>
+        <edge from="{98a06c4c-1a5f-4421-89ab-bdf4bc36d546}" id="{3b30a383-f7fb-43aa-aaeb-58944019947b}" partId="{8d2348e8-7ed2-4ace-82bc-6a10d2f2e534}" to="{6a7fc3a2-b8e8-419a-a234-7f3646609c99}"/>
+        <edge from="{fc53e319-af36-4a9c-be11-3210d0554ac4}" id="{3be390f1-4dec-4a22-854f-c6f5949daf27}" partId="{c8f306e9-1fae-450a-aee3-1cffa8cb3b01}" to="{859e004e-50b3-4643-bc95-8f49ae93624c}"/>
+        <edge from="{f03f4f30-e9e6-4cc9-a878-24cf3500efb4}" id="{3cad8b34-00cf-485e-bceb-6fd1fecb8a4f}" partId="{a4fb0df6-a80d-4028-9875-fd64606e2726}" to="{e207631f-66ee-4b5c-a5f9-399f8d32dce0}"/>
+        <edge from="{d8123611-815f-494a-96e6-bc0acab01d4f}" id="{3d97fe8b-667e-4432-a59f-a9e22b534102}" partId="{b5aed808-3746-4736-9d98-90342d59fa66}" to="{bfff1fa5-4928-4a02-94e6-dfd7fa0f6626}"/>
+        <edge from="{06fd44a7-eae6-4637-8d10-be2e4b5cd302}" id="{3f6184f4-b42a-4b3b-9df5-6186ad8be6d0}" partId="{86331152-3d9f-420d-8faa-a43965e3b991}" to="{69c2d4a0-e50a-4a7a-853b-a2e28b01dc89}"/>
+        <edge from="{00049e6d-51fe-405d-adbc-67772b5077a5}" id="{3f8103c8-89ba-441d-9236-9d83d74b9ff8}" partId="{e622cd6e-b109-4a22-9b8d-bcae4de67233}" to="{a0e274e0-2b42-466b-b466-5dab4054946f}"/>
+        <edge from="{139f208a-1cba-4484-b1a6-0f5090f84a98}" id="{40c07d78-8f89-4c93-bcbc-119c38a880b3}" partId="{36b6fa7d-574a-4309-8aaa-b4643cd59266}" to="{259e9d69-ddd5-480c-b04c-daf1b3b9c97b}"/>
+        <edge from="{117bbd65-91bb-4887-bee7-ea3a34362fa3}" id="{40e92e11-d11c-499d-9eec-70163d9c5d68}" partId="{1497f1eb-8446-4b02-bb85-87f1520bddb7}" to="{d9cd706f-678e-4436-a8ad-d9ef18d5d356}"/>
+        <edge from="{bfff1fa5-4928-4a02-94e6-dfd7fa0f6626}" id="{41669e66-731e-4ccf-a372-2af1dad21f83}" partId="{b5aed808-3746-4736-9d98-90342d59fa66}" to="{b62680f8-c080-49fc-8a5b-491e6f78207d}"/>
+        <edge from="{88cef959-c92d-4c89-99f3-f6874ef94fb2}" id="{4191c8dd-ba49-43b6-8743-541df3852d88}" partId="{1497f1eb-8446-4b02-bb85-87f1520bddb7}" to="{117bbd65-91bb-4887-bee7-ea3a34362fa3}"/>
+        <edge from="{47f80d13-7d02-461e-b5e2-60928a589746}" id="{42118bff-311a-4a91-a68d-fb903cec52c6}" partId="{02c7d514-ef8f-4fd8-8e35-e0c9902ecd82}" to="{c5100c05-74a6-4f8a-8a48-d10e63f9e653}"/>
+        <edge from="{1c8f0034-de08-4c6a-af62-6f7c78e35aef}" id="{43330cf3-31a3-4f90-8a41-f3e9d64b4772}" partId="{64e327a1-c75f-441e-b9d5-6f9c365b212c}" to="{0cc1f2c8-e69d-4db3-bf35-4049c4641b5c}"/>
+        <edge from="{e2cfa214-eaa0-4e10-a769-f9bbd71af566}" id="{44470841-2c0f-4fbb-ab0e-80c5bae72c0a}" partId="{1cdd7eb4-0612-4f3b-84f3-08126257eee0}" to="{9eda0853-3b96-4035-9181-8f0ccc770e79}"/>
+        <edge from="{88210b00-9716-42f2-be25-7bd2baeab7a3}" id="{45123cdb-ad0f-43db-ac3c-d8c4df9d8cfa}" partId="{a0691a75-08e6-43ba-b517-2fd9764cee2e}" to="{07978bf5-7106-4048-9e68-2bc329781bd7}"/>
+        <edge from="{9ea4bd88-2352-48ce-982d-03172e070c6f}" id="{482200fc-fb83-407a-8d61-e64aeef27590}" partId="{36b6fa7d-574a-4309-8aaa-b4643cd59266}" to="{139f208a-1cba-4484-b1a6-0f5090f84a98}"/>
+        <edge from="{db8f162c-e83b-43bc-b11f-8858f06ab641}" id="{49ff5e64-1fd2-4d08-93df-29f999385c0e}" partId="{bba321c3-e04d-4919-9e1c-05a2049dc411}" to="{b06b0335-5735-4a79-9354-cf883bce4902}"/>
+        <edge from="{6917d4da-f380-4972-abec-ba9f498dacce}" id="{4ba8c559-3ec6-464f-a559-26f2062c5cef}" partId="{86331152-3d9f-420d-8faa-a43965e3b991}" to="{06fd44a7-eae6-4637-8d10-be2e4b5cd302}"/>
+        <edge from="{7d6b9e3d-322f-4ba2-9275-7be87f77000a}" id="{4bc86d4a-8656-4e5d-b959-840bc81646db}" partId="{0f743902-6c5f-49d1-83e0-366b5c00ca27}" to="{15b746c8-8f2e-4224-a800-2deff948a0de}"/>
+        <edge from="{3778936f-e63a-4b08-9f26-33366d5c475a}" id="{4da6417b-344a-4243-ab3e-f8b187857aa3}" partId="{bf67a7e4-ed39-4695-a089-709de19eaaa9}" to="{f43fa536-57b7-4d8b-82eb-da5c02b69a46}"/>
+        <edge from="{8cbfc408-8736-4ab8-99c3-5770f141bd97}" id="{4ebf8737-322d-4e81-b25f-0a1d07e97c82}" partId="{882f31b2-cdbc-41c4-8498-29ded5895146}" to="{eb43d911-b4f8-47bb-a000-ae914b68166b}"/>
+        <edge from="{18e31d4f-5390-40d0-9637-d4e553f56167}" id="{50abaa72-884c-4f75-b425-be018b51f2d0}" partId="{4a68545a-eabf-420e-999a-96982cab64c5}" to="{00a3167e-f9af-4b04-a698-eddd9e926aad}"/>
+        <edge from="{5934339e-4ba4-41b2-828f-3cc7be6e1114}" id="{50d3adc0-5566-43d8-9d71-6d9d2784906e}" partId="{cbbe543a-ba00-4825-b0d8-e80f2aecd631}" to="{4f0b6939-e1fb-4449-8ec4-1ad2c6780461}"/>
+        <edge from="{c5100c05-74a6-4f8a-8a48-d10e63f9e653}" id="{51a53cd8-abd7-4920-b962-d44a71132682}" partId="{02c7d514-ef8f-4fd8-8e35-e0c9902ecd82}" to="{10f367ad-040e-456b-a0b8-907f3d5256dc}"/>
+        <edge from="{b20fd709-f778-4c8e-a36a-cd5cd0368e3a}" id="{52959e7d-ece7-4a88-ad0e-150b56748970}" partId="{4f46c8ed-cae2-472e-8371-951163274fb9}" to="{c578508c-01e8-4b60-924e-8bf847305414}"/>
+        <edge from="{e15bd584-8ec5-42d6-a8ba-68ddfab30146}" id="{5541f5af-f31b-4d7d-a285-65e038a56656}" partId="{bba321c3-e04d-4919-9e1c-05a2049dc411}" to="{db8f162c-e83b-43bc-b11f-8858f06ab641}"/>
+        <edge from="{8fdc2db0-a24b-4cad-b6e3-75402a4f8f17}" id="{558e9cf1-a8af-43e8-9760-0a32cdc6051f}" partId="{b816b4d3-f976-4846-a9bc-d9042385c426}" to="{b04c3687-c884-4d13-96fc-8b446686353f}"/>
+        <edge from="{afd297bf-6ba0-433e-92c5-7ce9af29dd1a}" id="{5872c068-51b2-428f-8574-18e86c1714b6}" partId="{26c11043-c1e9-4f26-beb0-fd03ff9038a7}" to="{ef1bda57-4779-44f8-9372-f4cf8c1ac589}"/>
+        <edge from="{9d7bc4b3-de71-4fe5-b519-edb840fd0b2e}" id="{5ffafa4a-66d1-4bde-9d54-7d688785b986}" partId="{5adf900f-3c3a-452d-bb3f-c28e8ec329d0}" to="{bf18db4c-9683-4769-808c-46313f6650eb}"/>
+        <edge from="{ef8b0510-69ce-4834-8870-ca9a9b56e0b1}" id="{60e0663e-78f7-4e4a-ba13-e91efc8ea0fb}" partId="{dd1418ef-89cd-4933-b429-631e5c883d65}" to="{2a523c19-ec5f-4f97-b46f-3b5a27169b6e}"/>
+        <edge from="{0cb258d7-cef0-40fd-b62e-c5270416bccd}" id="{611a63cb-ca36-4d85-9b58-41b0558d2534}" partId="{e62d0924-8cb7-4498-810c-53572c7d317b}" to="{6e8df06a-059c-42eb-a3b0-834fbd2ba9f5}"/>
+        <edge from="{1fade169-fe2d-4d9b-89cf-f2bfe47fc25f}" id="{61618987-d1e2-4f28-81da-939b93be0746}" partId="{88e3bebb-82c5-4eea-a072-0e4030837ce7}" to="{17c49950-cbca-409c-ac69-b9713ba5fe41}"/>
+        <edge from="{39c07d4e-eee9-4802-ac11-ee2a4a2c196c}" id="{628873f0-4bfc-4476-b3f9-e1ca87e1527c}" partId="{0395d392-d78e-4ed6-964b-60d34329642d}" to="{99e36e42-1e92-4a17-9f2e-ec829eb87a0c}"/>
+        <edge from="{919427e8-f9a4-43d4-8d17-1938bc049e52}" id="{62f78b15-2b4b-4622-a96a-7e2e21035816}" partId="{bc7f721f-dfa5-4e49-850c-df3fda3ae531}" to="{a6aaf182-0536-4fdb-b526-c0b12d4f2cc9}"/>
+        <edge from="{647ea0fd-e63b-46c6-aee1-3095d6fa88aa}" id="{63a58d19-70ee-404f-a4c6-42eb0ebc02ad}" partId="{aa00e7e7-c5a5-4b22-b4a0-e436ef884e0e}" to="{b0ac8cb9-f62a-4b15-b72c-6a30e757fb1e}"/>
+        <edge from="{3bdd6dc2-c4e4-47df-a57a-d96e3c477f2c}" id="{64be3fb0-ebbe-4f40-bfa3-1ca1daeb0a8b}" partId="{0abaddc5-ffad-4761-93e3-63670423acfd}" to="{4b007752-6f49-4f59-9174-a04125a43d30}"/>
+        <edge from="{f403d97a-6217-4b11-9271-6153d9b9fb46}" id="{6568bc31-9eba-43b2-b0fa-d052120b19c2}" partId="{0395d392-d78e-4ed6-964b-60d34329642d}" to="{39c07d4e-eee9-4802-ac11-ee2a4a2c196c}"/>
+        <edge from="{69c2d4a0-e50a-4a7a-853b-a2e28b01dc89}" id="{671703bb-bedd-48f7-8a76-26ec1feeb83f}" partId="{86331152-3d9f-420d-8faa-a43965e3b991}" to="{6917d4da-f380-4972-abec-ba9f498dacce}"/>
+        <edge from="{cd3d55ff-a04f-4674-bd40-47104bfd8f3b}" id="{67513403-4d2b-438d-b3f8-5b0185535fed}" partId="{5adf900f-3c3a-452d-bb3f-c28e8ec329d0}" to="{9d7bc4b3-de71-4fe5-b519-edb840fd0b2e}"/>
+        <edge from="{b33d4715-a4c7-4b73-b9ef-336974c63d90}" id="{681f59b5-f2e2-483b-b87a-17747d9abe87}" partId="{22e152ac-f9d5-43f6-bb22-8cc77393521c}" to="{b1e8fd56-2d65-45bd-9d9c-2d0e450cb601}"/>
+        <edge from="{96d61fe5-74b5-4822-8b20-fbf23377bf63}" id="{68bdb358-e8f4-4fb0-a111-65e1e8c16dcd}" partId="{e622cd6e-b109-4a22-9b8d-bcae4de67233}" to="{00049e6d-51fe-405d-adbc-67772b5077a5}"/>
+        <edge from="{ed83d889-cc15-4dcf-995d-9f1e8db268d3}" id="{69698289-216d-4e45-bbec-16751eb93fa3}" partId="{98d9b782-5d24-43dd-a7a7-45800f1eaefe}" to="{f110e242-b9e2-4ff7-8044-9647bf1502e3}"/>
+        <edge from="{1ea409cf-8786-4533-aa7b-fd7267d205c6}" id="{69b4de3b-a577-4ccc-a72b-f978b5b1e907}" partId="{770af3ad-1b7a-49b6-86a8-dd3f967ee100}" to="{4a5d978b-a71a-417e-bdfb-de8d24683194}"/>
+        <edge from="{f52f9d81-0a72-42f1-b134-8940e5d48b3a}" id="{69d773ee-f301-4194-a7c4-f89eed3c130a}" partId="{a4b82dcc-b339-4c6e-ab06-b9a0e4b1d832}" to="{8beb5c89-3f98-431b-a522-9936e52b996b}"/>
+        <edge from="{d9cd706f-678e-4436-a8ad-d9ef18d5d356}" id="{6a8a6997-44b6-4ccd-a7cc-2d5ba51a1e47}" partId="{1497f1eb-8446-4b02-bb85-87f1520bddb7}" to="{88cef959-c92d-4c89-99f3-f6874ef94fb2}"/>
+        <edge from="{0cc1f2c8-e69d-4db3-bf35-4049c4641b5c}" id="{6b8c784b-48cb-4e29-89ba-21585bc34f86}" partId="{64e327a1-c75f-441e-b9d5-6f9c365b212c}" to="{29852f99-61a8-453b-b744-29fbc758954d}"/>
+        <edge from="{1c134426-1f9f-4ae4-874e-99c0b150abfe}" id="{6e4e1df6-9fba-4d50-9f91-8412bae84ae8}" partId="{ad48f400-ea08-4fc5-b1c0-e84c4dba2d9e}" to="{ac43acf6-2719-4401-af99-f50129236842}"/>
+        <edge from="{6ade264f-1663-486e-8446-00c0f80ee60b}" id="{6ea7a7af-a406-45b6-b5e6-5b7f783fa03f}" partId="{57cf22f4-7337-422b-a555-ac64ac4c6c96}" to="{38da0d5c-09da-431a-9d7f-b52e7bd798e9}"/>
+        <edge from="{ffe0d991-2f50-4c12-b6fa-85d38ec8d22c}" id="{6fbb1e17-6ed6-4a65-b8bc-d6d836dd3b41}" partId="{89b891e5-0a8a-49d8-b330-c9173d9be03e}" to="{de104d46-d181-4f62-9a32-91401c2e7254}"/>
+        <edge from="{ced6b6ef-9c31-46f7-87df-24768f5254a1}" id="{70d499f7-14fc-45f4-a655-46b5c1ae5b13}" partId="{c6623113-e3ad-4c5d-a17f-40968be715b4}" to="{3f8e4834-1fdb-4f8e-b05f-602296f2f6d8}"/>
+        <edge from="{f8deeb58-e2be-4c33-999f-3f6a6dceb195}" id="{7262fb20-33a4-4de9-8b10-db0cdeffe59a}" partId="{50616f09-e6cd-4481-9fea-4f7f958eb6ca}" to="{7f0eff71-b5de-4cf9-bcd8-b955f8c764b0}"/>
+        <edge from="{32dd38b7-751e-40dc-8597-b4e868c7ead3}" id="{72c9104c-400b-4e86-b71b-d63d27762e4d}" partId="{aa00e7e7-c5a5-4b22-b4a0-e436ef884e0e}" to="{647ea0fd-e63b-46c6-aee1-3095d6fa88aa}"/>
+        <edge from="{e81d2947-d987-4c50-9909-4847817033ea}" id="{72fb3237-5f5c-4ce4-80d7-6ed6c39d8ae5}" partId="{4a68545a-eabf-420e-999a-96982cab64c5}" to="{18e31d4f-5390-40d0-9637-d4e553f56167}"/>
+        <edge from="{b62680f8-c080-49fc-8a5b-491e6f78207d}" id="{73e5cb9b-a9fe-41f7-929d-f2552a76a1d9}" partId="{b5aed808-3746-4736-9d98-90342d59fa66}" to="{d8123611-815f-494a-96e6-bc0acab01d4f}"/>
+        <edge from="{b0ac8cb9-f62a-4b15-b72c-6a30e757fb1e}" id="{74d1fbb0-a26a-48c2-a0d3-f8f355d41a81}" partId="{aa00e7e7-c5a5-4b22-b4a0-e436ef884e0e}" to="{32dd38b7-751e-40dc-8597-b4e868c7ead3}"/>
+        <edge from="{d6c4ce15-4475-4f95-9384-16261410851d}" id="{76c366c4-ae95-4224-83dd-952e25cde4e1}" partId="{54b5071c-3ab6-482a-8181-656f6d225d51}" to="{718e800f-a544-45eb-93f1-068d5aba988a}"/>
+        <edge from="{160418db-5d1c-4af3-9c78-513b8b3a84c3}" id="{78b6d933-6806-49a7-9248-f79ee6a5fc2a}" partId="{c9a995ca-565e-4934-b225-cee6232b91bd}" to="{4683202e-5c66-4ba8-9c70-99408e0b233a}"/>
+        <edge from="{0c256fe2-23db-4bb4-9dd1-f2572b3239ec}" id="{79ed1c6a-2947-4765-956f-c6f348b2691c}" partId="{013f97d9-2f72-4450-a79c-c6d6c3141be3}" to="{d740f1bc-331c-4628-8993-03a0f58cb252}"/>
+        <edge from="{ee66e4dd-e266-4a95-b76e-a4e57834743e}" id="{7a9deca8-672c-474f-ac18-d163d6438bdf}" partId="{2e0ed2d9-5b50-452c-b2b5-466876f3a9ab}" to="{7d36fd8c-298e-4f76-8317-49cd8e5bb9c0}"/>
+        <edge from="{b1529a88-f55f-4b56-84e5-a5cb1051d700}" id="{7d1409a3-59db-42c4-b8f3-3d871a89078f}" partId="{53300dc0-cc3a-4609-a3f3-fcbcc644b882}" to="{14456ce3-3885-4f45-a9cb-c2382aa36937}"/>
+        <edge from="{4bc3b64e-bc32-4c5c-85ba-423c6299ba45}" id="{7fe6793f-26b3-4271-87b9-43fab5f08b4f}" partId="{2048197c-5d25-4350-8b69-bbc6c92e14c1}" to="{6c38b93b-6f69-41c2-94e7-3d82ad6b179d}"/>
+        <edge from="{0c33565c-1202-4a86-92ec-1ad35d9d3629}" id="{81ec4171-8041-4b22-875c-374ea217b8fc}" partId="{ae4538f5-3c76-4b89-bbf9-20bc60354c0b}" to="{b5b9b445-dc07-462f-b0ef-c261527e20f3}"/>
+        <edge from="{04f12430-ecdd-4578-8ef8-079ecabbb475}" id="{82457bc8-7c52-40c8-a382-8a9fc604e332}" partId="{279fee4c-a8b7-48e7-bca1-466c046e27dd}" to="{04ea89c2-0cfa-44ca-8aa4-4a43e074c598}"/>
+        <edge from="{a2df560a-4560-4c84-8ca7-00226c6be414}" id="{85c45330-5d86-49d7-9867-d6de748518d7}" partId="{71edd6c1-b200-4ac4-88eb-3fb90ffd4fc3}" to="{1d3074b2-45db-440f-8633-20eef3e75cc2}"/>
+        <edge from="{5d136fc4-53ee-4097-8099-ef8b64d55dfb}" id="{86b71cd9-49f6-42ca-85f5-fe723ee98929}" partId="{cbbe543a-ba00-4825-b0d8-e80f2aecd631}" to="{5934339e-4ba4-41b2-828f-3cc7be6e1114}"/>
+        <edge from="{94360b10-edb5-4a35-8e89-660a5f708d96}" id="{86ba33ba-f566-4004-b6f2-8a51be80b761}" partId="{c6623113-e3ad-4c5d-a17f-40968be715b4}" to="{ced6b6ef-9c31-46f7-87df-24768f5254a1}"/>
+        <edge from="{ac90c2bc-7264-441f-9d3d-970e40c7e235}" id="{8974d386-2f76-466e-b0fa-59cbe87aaf92}" partId="{832f3ea2-213b-41d8-8390-5bb0ad8008c8}" to="{5c17bf37-61dc-49c0-b0f5-bf1a09683105}"/>
+        <edge from="{3f9e170f-e731-4b1f-a63a-7f0f44e4f79a}" id="{89ec5d42-8206-45ec-b88e-05c653341b55}" partId="{16b90461-93e0-4306-aff1-9dec64311876}" to="{cf158886-4a86-464b-a497-a88449b594d5}"/>
+        <edge from="{4f0b6939-e1fb-4449-8ec4-1ad2c6780461}" id="{8f775e57-e826-4e12-82ae-01f138269545}" partId="{cbbe543a-ba00-4825-b0d8-e80f2aecd631}" to="{5d136fc4-53ee-4097-8099-ef8b64d55dfb}"/>
+        <edge from="{07978bf5-7106-4048-9e68-2bc329781bd7}" id="{901a48bb-5c09-4249-9580-d175c2baccae}" partId="{a0691a75-08e6-43ba-b517-2fd9764cee2e}" to="{b35133ff-f6f8-47cb-a186-a2f71ad30a4b}"/>
+        <edge from="{2b9ca122-e1d1-40e9-ac17-5e8bed554ae3}" id="{908d8ae1-67f4-4827-b575-f04ea95553dd}" partId="{c9a995ca-565e-4934-b225-cee6232b91bd}" to="{160418db-5d1c-4af3-9c78-513b8b3a84c3}"/>
+        <edge from="{17c49950-cbca-409c-ac69-b9713ba5fe41}" id="{91158f41-6081-4368-9e5d-b848c6d745c0}" partId="{88e3bebb-82c5-4eea-a072-0e4030837ce7}" to="{c13e1f47-84fd-4453-baa1-79aa7f1d6587}"/>
+        <edge from="{876c7fc3-f811-4b44-921e-54e90bd077d1}" id="{91d38083-9c8d-4a1e-bcdb-f7599c3a84ee}" partId="{35a691ac-77ef-4ea0-a7ea-b12fb3edb7d8}" to="{b7a7c0ac-7953-4acc-b9b9-359fa34249d3}"/>
+        <edge from="{1acddb2c-a228-4818-8b8c-d732805d8978}" id="{92d4f428-737b-4aae-a8d0-375ba33a2265}" partId="{76d2addf-ca64-4263-a223-69acbc5de1ab}" to="{12eeefad-7ffb-46f6-92cd-918a34deefef}"/>
+        <edge from="{c889e9b3-bb4a-4d0c-9cd3-13604dea1ff8}" id="{95852267-d3be-4867-a695-9602d17cddef}" partId="{2ae8b3ff-c718-4b3c-8e95-8fc56e7fc0f8}" to="{638c0370-77d1-49bd-9da4-526178fbf51d}"/>
+        <edge from="{a86df165-145d-451a-b6f4-e368c6bee1ac}" id="{96167876-bebf-4ef3-aa58-24b4a8f6b46d}" partId="{2e0ed2d9-5b50-452c-b2b5-466876f3a9ab}" to="{ee66e4dd-e266-4a95-b76e-a4e57834743e}"/>
+        <edge from="{c395a415-7eab-4772-b6f9-e6130ad9fd5b}" id="{96293e37-b689-40a4-9b85-0d17ab911212}" partId="{16b90461-93e0-4306-aff1-9dec64311876}" to="{3f9e170f-e731-4b1f-a63a-7f0f44e4f79a}"/>
+        <edge from="{0d8ea577-4d69-4d64-ac3a-f3012674b5b1}" id="{96e1e995-1672-4cd0-8cb3-8db33d6120c3}" partId="{678dbbd0-9aa4-468b-ba41-ba572040eb29}" to="{f295245f-dca0-4351-ae20-99c93b473556}"/>
+        <edge from="{f21ef99f-6391-4090-9f21-66e7388dcab9}" id="{97e00a67-a421-4c8f-9c64-534b97ef9685}" partId="{a4b82dcc-b339-4c6e-ab06-b9a0e4b1d832}" to="{f52f9d81-0a72-42f1-b134-8940e5d48b3a}"/>
+        <edge from="{cb5e8591-a7d1-4b45-a0e4-404bedcb8530}" id="{98fd0dfa-b803-436c-b5ed-e80ae01df977}" partId="{c8f306e9-1fae-450a-aee3-1cffa8cb3b01}" to="{fc53e319-af36-4a9c-be11-3210d0554ac4}"/>
+        <edge from="{84c3fd74-5d61-4c46-8173-4f3f7f63fe34}" id="{99535103-7ba9-451d-a76a-aa9aa1e15550}" partId="{f496202a-2290-4cfa-bb5f-6fe5d5e00dbb}" to="{5ed93cfc-699f-4cdc-b0d9-a0db8f623fc3}"/>
+        <edge from="{d611152a-4814-4223-b5f5-28996f5f1e8f}" id="{9a2c8def-d539-4b3d-a464-f418cec2fd24}" partId="{ad48f400-ea08-4fc5-b1c0-e84c4dba2d9e}" to="{1c134426-1f9f-4ae4-874e-99c0b150abfe}"/>
+        <edge from="{eb43d911-b4f8-47bb-a000-ae914b68166b}" id="{9ae7bd5d-7062-4e6d-885e-32b9afe16838}" partId="{882f31b2-cdbc-41c4-8498-29ded5895146}" to="{c5ae42ab-6315-4c91-973a-3e33239930bb}"/>
+        <edge from="{38da0d5c-09da-431a-9d7f-b52e7bd798e9}" id="{9bb642b5-3176-4a72-bb14-b6d596747b7d}" partId="{57cf22f4-7337-422b-a555-ac64ac4c6c96}" to="{39f879af-77a0-480b-8be8-843b48c4c939}"/>
+        <edge from="{929dacb1-0997-4ee1-bae0-30ced9141e84}" id="{9d637734-9036-4209-b826-a461450aea70}" partId="{54b5071c-3ab6-482a-8181-656f6d225d51}" to="{d6c4ce15-4475-4f95-9384-16261410851d}"/>
+        <edge from="{6a7fc3a2-b8e8-419a-a234-7f3646609c99}" id="{9e7275f2-63a8-49a0-a602-fee3de441986}" partId="{8d2348e8-7ed2-4ace-82bc-6a10d2f2e534}" to="{974508bb-7c50-4fba-8b59-6b16329f4a97}"/>
+        <edge from="{1f99166b-b7ac-48af-9e2d-8f314646c37e}" id="{9f638911-bc39-42dc-8dfb-cf239c2e805c}" partId="{69b70cd0-9316-4079-a915-7491c66a2180}" to="{9f1e10b3-e024-4da5-a123-199d66b90bcb}"/>
+        <edge from="{c38c46f8-a094-4c1a-9a37-6ab739c91622}" id="{9fcfe484-dd5f-4301-8afd-588ff0fb95c2}" partId="{83349077-7149-4042-b358-694ba21b46bb}" to="{4e1e847f-d000-4f98-a34b-cc3cffe1ec36}"/>
+        <edge from="{bb429cb1-f8b8-4907-b007-19cc013a0b90}" id="{a07a1075-7e0c-4150-8eeb-c07a881e1b20}" partId="{4dc40c74-72e5-4559-a42b-14fb1b22b118}" to="{08dba2cd-ba8c-4284-ae3e-cb75d74156b8}"/>
+        <edge from="{fc3c43bb-3ea7-4453-bd1f-3a5a436c9025}" id="{a0e76737-5d8a-4987-9d73-89b207521e25}" partId="{12f34ced-1911-4641-8984-7ba78a5da26f}" to="{99837e4e-1714-4bf2-aeb2-5f575fb705de}"/>
+        <edge from="{1d3074b2-45db-440f-8633-20eef3e75cc2}" id="{a1830765-6f0f-480a-b4a0-70305161e5f5}" partId="{71edd6c1-b200-4ac4-88eb-3fb90ffd4fc3}" to="{a95a477f-5719-4d53-8884-25921f0bc0b3}"/>
+        <edge from="{12eeefad-7ffb-46f6-92cd-918a34deefef}" id="{a300bc2e-c7d5-4d67-b14d-a7335428eb08}" partId="{76d2addf-ca64-4263-a223-69acbc5de1ab}" to="{d0bd7f5f-1ce9-453a-9688-0963cd2299e2}"/>
+        <edge from="{e502c27b-a503-454f-a4db-ca21d80b951b}" id="{a59869a5-d30b-4a1d-bbfd-c0543b16f170}" partId="{b846af9e-6243-4d00-a23d-17dc1039d313}" to="{8afe53e7-6292-4dda-a48a-d0526a171f50}"/>
+        <edge from="{11458c8d-9d44-4a64-89b3-ceef60fd3930}" id="{a5d993e7-41e8-401f-b1ce-321ffdee9fc5}" partId="{89b891e5-0a8a-49d8-b330-c9173d9be03e}" to="{ffe0d991-2f50-4c12-b6fa-85d38ec8d22c}"/>
+        <edge from="{62ae91b6-c49f-46b7-8982-f3d7f3363df5}" id="{a6a3f5d9-6ad5-49b6-985e-4d5ef084fef4}" partId="{d4037b86-f0fe-407f-b914-5b099d42acaf}" to="{8c1cec41-ed9d-4b4b-b80b-1fa14aad4f59}"/>
+        <edge from="{026b4976-195e-43e6-9046-95c830e6bca9}" id="{a7a62519-5d15-4a83-8a7c-166f138c071b}" partId="{f496202a-2290-4cfa-bb5f-6fe5d5e00dbb}" to="{84c3fd74-5d61-4c46-8173-4f3f7f63fe34}"/>
+        <edge from="{5ce24364-dbf8-4f60-828e-96912bb008af}" id="{a80b1754-9b94-467f-a891-767854680a8b}" partId="{b0955a46-ea37-450d-9b7d-da23e733d0bf}" to="{007b7fec-1a97-46d2-b457-d321e11cb4e6}"/>
+        <edge from="{790ff92e-6f7c-4f7e-9e97-af0be3ab7119}" id="{a90f75fd-5ba1-4cae-8d0b-3e1ed181f194}" partId="{2e89f2b5-a36e-4f98-86bb-d7613587a279}" to="{0acc4cd6-5b21-4d89-be8f-f20a616e3323}"/>
+        <edge from="{f83b1eed-5156-4226-99b3-fac5a4afe16c}" id="{aa7c6581-cd16-4ace-be86-cb567e3f7da3}" partId="{1f8b4bd5-c08a-48d6-9486-6bd04b5e1afa}" to="{7327fdc6-61a9-4711-8757-32c700f37a2f}"/>
+        <edge from="{10f367ad-040e-456b-a0b8-907f3d5256dc}" id="{aa8c29d9-ccad-4b85-a53f-63379325e949}" partId="{02c7d514-ef8f-4fd8-8e35-e0c9902ecd82}" to="{47f80d13-7d02-461e-b5e2-60928a589746}"/>
+        <edge from="{57866ff7-8ad7-4741-968b-8d746a160e37}" id="{ac2a88b5-b5b1-4ba8-b052-99c7a49a3829}" partId="{83ecf666-f8d2-4f55-95ff-95e6ace251ae}" to="{5b657a2e-a6a8-4ca7-becf-fd5a43df9149}"/>
+        <edge from="{0101112c-2290-4976-bf57-de9bb95f95ab}" id="{ac311797-6f47-43ce-9298-7c5471b7358b}" partId="{d96575a8-3fe3-4c1f-8e71-a014012509d4}" to="{178b9b38-5f45-4744-ae94-35cee6443205}"/>
+        <edge from="{859e004e-50b3-4643-bc95-8f49ae93624c}" id="{ac5ab221-2f53-4fd7-9a09-2f5a5695dfe9}" partId="{c8f306e9-1fae-450a-aee3-1cffa8cb3b01}" to="{cb5e8591-a7d1-4b45-a0e4-404bedcb8530}"/>
+        <edge from="{7327fdc6-61a9-4711-8757-32c700f37a2f}" id="{acfee8e1-aa35-434c-90da-6045b38e7f8f}" partId="{1f8b4bd5-c08a-48d6-9486-6bd04b5e1afa}" to="{f68eff8b-dd35-40e4-a399-964e30cca7a5}"/>
+        <edge from="{29852f99-61a8-453b-b744-29fbc758954d}" id="{ad128ccb-be27-41ce-983c-3cd7afd9fc43}" partId="{64e327a1-c75f-441e-b9d5-6f9c365b212c}" to="{1c8f0034-de08-4c6a-af62-6f7c78e35aef}"/>
+        <edge from="{659bfc07-2b8f-4ba2-a907-bbdff5eee8ab}" id="{b0cdac42-64f0-4047-88f8-03ff1552ebbe}" partId="{f6fec252-5636-41c6-96e4-24e9a1702aa9}" to="{304a75e4-40af-4f1f-b634-f36237ec3353}"/>
+        <edge from="{7f0eff71-b5de-4cf9-bcd8-b955f8c764b0}" id="{b38d4e50-466d-47fc-8f50-e2f94dea6aa7}" partId="{50616f09-e6cd-4481-9fea-4f7f958eb6ca}" to="{3789c3ae-6e1a-43d6-8588-19a80cb96a63}"/>
+        <edge from="{6efde86a-db4e-4d15-bc89-2c70828eea3b}" id="{b4276c21-6c7c-4a8c-b615-f1211546dbe1}" partId="{363214d6-0d9b-46b1-bb73-599423a6b1e9}" to="{71737477-d1e8-45ba-bb50-bec16513375d}"/>
+        <edge from="{98bd2205-4f81-4cce-8dae-e4fea80ba4a4}" id="{b59e0561-255f-43d7-a36f-34d44a6b3938}" partId="{e62d0924-8cb7-4498-810c-53572c7d317b}" to="{0cb258d7-cef0-40fd-b62e-c5270416bccd}"/>
+        <edge from="{4683202e-5c66-4ba8-9c70-99408e0b233a}" id="{b8306281-2ac3-4dcf-b8a6-57104cf42ae6}" partId="{c9a995ca-565e-4934-b225-cee6232b91bd}" to="{2b9ca122-e1d1-40e9-ac17-5e8bed554ae3}"/>
+        <edge from="{e86395aa-c96d-43fd-b431-86b27416675e}" id="{b946749f-a13b-449f-89bb-12d1a528b8ec}" partId="{832f3ea2-213b-41d8-8390-5bb0ad8008c8}" to="{ac90c2bc-7264-441f-9d3d-970e40c7e235}"/>
+        <edge from="{af8ffd5a-8609-43f5-8ed4-3f880086d985}" id="{b9a8ac4c-d731-4aad-8b65-0a24377a899b}" partId="{f9c82837-27f3-4e91-b8a3-458c9330b200}" to="{ac0f7d54-7951-42cb-a853-66a101bc177d}"/>
+        <edge from="{de104d46-d181-4f62-9a32-91401c2e7254}" id="{bac951d8-d679-4c6a-88c9-758e1c0d303a}" partId="{89b891e5-0a8a-49d8-b330-c9173d9be03e}" to="{11458c8d-9d44-4a64-89b3-ceef60fd3930}"/>
+        <edge from="{7d36fd8c-298e-4f76-8317-49cd8e5bb9c0}" id="{bdde3d85-3562-499b-bcf0-29deb677ba66}" partId="{2e0ed2d9-5b50-452c-b2b5-466876f3a9ab}" to="{a86df165-145d-451a-b6f4-e368c6bee1ac}"/>
+        <edge from="{662ed296-5cd8-44e5-92f6-4d3fdcb5f8b2}" id="{bf296ad5-34b3-4023-a46d-65e6b6165b33}" partId="{6dd12129-caad-4f89-9580-a9b6f6047b2c}" to="{a6b9cfbb-e107-4e17-ac68-c47a21da3746}"/>
+        <edge from="{974508bb-7c50-4fba-8b59-6b16329f4a97}" id="{c071be2e-021d-4b5b-ad5c-03682322d9d3}" partId="{8d2348e8-7ed2-4ace-82bc-6a10d2f2e534}" to="{98a06c4c-1a5f-4421-89ab-bdf4bc36d546}"/>
+        <edge from="{0ec2490f-1e31-4c8b-8a8a-e1bec92b3ace}" id="{c1001358-c7c0-4123-9ee0-7594fafd312d}" partId="{1cdd7eb4-0612-4f3b-84f3-08126257eee0}" to="{e2cfa214-eaa0-4e10-a769-f9bbd71af566}"/>
+        <edge from="{cf158886-4a86-464b-a497-a88449b594d5}" id="{c15c6069-706e-4bc9-90a4-9b5f0073d110}" partId="{16b90461-93e0-4306-aff1-9dec64311876}" to="{c395a415-7eab-4772-b6f9-e6130ad9fd5b}"/>
+        <edge from="{9f1e10b3-e024-4da5-a123-199d66b90bcb}" id="{c6481a00-2dff-4520-a354-9f26162b24cf}" partId="{69b70cd0-9316-4079-a915-7491c66a2180}" to="{ebb78bd5-1c49-41e3-bdac-3364fd1ec3e0}"/>
+        <edge from="{50fd9872-bf6e-42b8-94b1-91d7681a5c10}" id="{c6deb109-6bf0-4d1a-94e7-74ad1132f830}" partId="{678dbbd0-9aa4-468b-ba41-ba572040eb29}" to="{0d8ea577-4d69-4d64-ac3a-f3012674b5b1}"/>
+        <edge from="{bf18db4c-9683-4769-808c-46313f6650eb}" id="{c6e62b4e-79cd-470f-8563-121ed6df3653}" partId="{5adf900f-3c3a-452d-bb3f-c28e8ec329d0}" to="{cd3d55ff-a04f-4674-bd40-47104bfd8f3b}"/>
+        <edge from="{f110e242-b9e2-4ff7-8044-9647bf1502e3}" id="{c8044d6b-cc56-4ab3-83a8-ac908d6d4900}" partId="{98d9b782-5d24-43dd-a7a7-45800f1eaefe}" to="{1e618107-708f-4a51-b3bc-2c86717292d3}"/>
+        <edge from="{2c466bad-8241-4ad9-b83a-f12a15a4f22d}" id="{c80ea7f4-8248-4495-9059-85d25c1cd8f4}" partId="{44edcd7f-70c9-4986-afb3-84941c7f453e}" to="{42a184a8-9e43-40a8-82d2-feffb3a065fa}"/>
+        <edge from="{ec4abe25-5649-4e24-9f4e-04bcc9553800}" id="{c87e466c-7c52-474a-9ff6-53d428cee0b7}" partId="{ed828742-0bd9-40db-9d3b-c01ab73aaa97}" to="{f2fc65db-fe3d-4791-9fed-5e347094e6b1}"/>
+        <edge from="{fc0426eb-07bd-44f5-8257-5ad32304eb60}" id="{cafcf4c5-fb8e-49b4-897f-9dab3cb22dfd}" partId="{0abaddc5-ffad-4761-93e3-63670423acfd}" to="{3bdd6dc2-c4e4-47df-a57a-d96e3c477f2c}"/>
+        <edge from="{e207631f-66ee-4b5c-a5f9-399f8d32dce0}" id="{cb5589e6-6fc7-453e-b850-9f1ea986e929}" partId="{a4fb0df6-a80d-4028-9875-fd64606e2726}" to="{91d656d3-e5d9-4892-b302-7d2878d70577}"/>
+        <edge from="{f2fc65db-fe3d-4791-9fed-5e347094e6b1}" id="{cbd030ea-66cb-43d4-9c0e-4b14bc5f9613}" partId="{ed828742-0bd9-40db-9d3b-c01ab73aaa97}" to="{f42a245f-e933-4ee5-8eff-aab1362a9188}"/>
+        <edge from="{cdb2e48e-d0c4-4e8d-9122-23a6bc46a7b4}" id="{cbdab77d-568e-4624-be0b-6b58f4ab0715}" partId="{22e152ac-f9d5-43f6-bb22-8cc77393521c}" to="{b33d4715-a4c7-4b73-b9ef-336974c63d90}"/>
+        <edge from="{dabc63b7-7349-47ee-a58e-3cca79168a36}" id="{cc385d52-3780-4f33-bef7-a6962a1b8786}" partId="{bd916b3e-e3a0-43cc-991f-9e214f237aec}" to="{c6739060-4387-46c5-ba1d-e8b740115726}"/>
+        <edge from="{3e9bf938-c873-4727-bdf2-d47528f1877c}" id="{cc4bf4dc-7d2d-4c80-9cc2-3736e5a9c1f1}" partId="{cca9ef24-7d27-40e3-a7ef-7920dbaaa379}" to="{f07c7b43-a3bc-45e1-92d7-d9adee9a35f7}"/>
+        <edge from="{7cadc966-86d5-4d95-bccf-6c5231a9c4f7}" id="{cc4efd05-c5f5-4ab0-b290-e86e8766572d}" partId="{770af3ad-1b7a-49b6-86a8-dd3f967ee100}" to="{1ea409cf-8786-4533-aa7b-fd7267d205c6}"/>
+        <edge from="{304a75e4-40af-4f1f-b634-f36237ec3353}" id="{ce0ba47f-464e-4966-97a7-63400a391c8a}" partId="{f6fec252-5636-41c6-96e4-24e9a1702aa9}" to="{85c81920-a55e-42eb-988f-f702a3982f73}"/>
+        <edge from="{14456ce3-3885-4f45-a9cb-c2382aa36937}" id="{cf7c1927-ca1a-4db8-a2d6-2b40ec96b6a1}" partId="{53300dc0-cc3a-4609-a3f3-fcbcc644b882}" to="{20976fad-4b2b-4366-8f4a-9be20ca4f7f4}"/>
+        <edge from="{178b9b38-5f45-4744-ae94-35cee6443205}" id="{cf9b1009-3023-4b12-8fa1-a0a213d5371a}" partId="{d96575a8-3fe3-4c1f-8e71-a014012509d4}" to="{09c491a7-c24d-411d-a96e-58fc3e50b4c0}"/>
+        <edge from="{d7b5fc45-cce5-44fd-82b9-dbbf7f363739}" id="{cfe33f7b-cc78-4ea0-9c96-cd4f36c6a7bd}" partId="{6a01f8dc-73bb-41c5-965e-1b87ebd5e069}" to="{b1987114-e2a4-48d6-86e9-d1130a75d98d}"/>
+        <edge from="{c5ae42ab-6315-4c91-973a-3e33239930bb}" id="{d1b48d9f-03d3-461b-8dde-1ebe95f86f98}" partId="{882f31b2-cdbc-41c4-8498-29ded5895146}" to="{8cbfc408-8736-4ab8-99c3-5770f141bd97}"/>
+        <edge from="{71737477-d1e8-45ba-bb50-bec16513375d}" id="{d3232bb3-8e6d-418b-953e-117b1990a2b9}" partId="{363214d6-0d9b-46b1-bb73-599423a6b1e9}" to="{fef67dc6-1a8e-41d2-86f8-558f2477a1ac}"/>
+        <edge from="{a6b9cfbb-e107-4e17-ac68-c47a21da3746}" id="{d3677c50-5eae-4c4d-ba4d-267aef009364}" partId="{6dd12129-caad-4f89-9580-a9b6f6047b2c}" to="{f3d38f80-8117-44cf-ba33-1f219b352377}"/>
+        <edge from="{0b2793f7-e027-43c7-9d34-2496726ee9e2}" id="{d44c90f0-a1b5-4679-98ce-ca3a88d666a2}" partId="{0b0d2329-8060-44ff-883c-8bc503f4f573}" to="{ed00da4e-9dd1-47b4-9487-5df4070d2afe}"/>
+        <edge from="{ef1bda57-4779-44f8-9372-f4cf8c1ac589}" id="{d45e15c6-3512-4041-a73e-720d304bbd13}" partId="{26c11043-c1e9-4f26-beb0-fd03ff9038a7}" to="{bb6bb62f-de2b-4582-a94d-3e34a6e90293}"/>
+        <edge from="{9c0bc919-94a9-4f69-af05-26fd9b1e2eed}" id="{d4fc6e36-54c1-4bda-a055-fa102fdadcc6}" partId="{12f34ced-1911-4641-8984-7ba78a5da26f}" to="{fc3c43bb-3ea7-4453-bd1f-3a5a436c9025}"/>
+        <edge from="{ac6714e3-dafc-41fb-90cd-5bfdf56486d9}" id="{d5602884-0b2f-4151-88bb-5c2b27b0a570}" partId="{c0423874-fe1e-42cf-ae4a-c11041d76039}" to="{2d86899c-0965-455a-88a4-031f5303df55}"/>
+        <edge from="{9eda0853-3b96-4035-9181-8f0ccc770e79}" id="{d572c6a3-beb8-42b1-9862-07b9be2fcc4e}" partId="{1cdd7eb4-0612-4f3b-84f3-08126257eee0}" to="{0ec2490f-1e31-4c8b-8a8a-e1bec92b3ace}"/>
+        <edge from="{6c38b93b-6f69-41c2-94e7-3d82ad6b179d}" id="{d634f323-c11e-48d8-a92e-21394c54abf3}" partId="{2048197c-5d25-4350-8b69-bbc6c92e14c1}" to="{0950f45c-b56e-4f67-a12e-74704130ce34}"/>
+        <edge from="{99837e4e-1714-4bf2-aeb2-5f575fb705de}" id="{d64c16ff-7aa9-47c5-a267-2701c8473650}" partId="{12f34ced-1911-4641-8984-7ba78a5da26f}" to="{9c0bc919-94a9-4f69-af05-26fd9b1e2eed}"/>
+        <edge from="{c0a3a951-8b1d-4e38-87f0-92c9739e774d}" id="{d66378f1-d534-4bc5-982e-52c5ee54093d}" partId="{36c42fa5-5110-4d48-9c2d-26642d29dd0f}" to="{fc851d9a-011e-4393-a655-41456bb7feb4}"/>
+        <edge from="{b1e8fd56-2d65-45bd-9d9c-2d0e450cb601}" id="{d853306c-935f-407c-8bdc-40c4c9236aab}" partId="{22e152ac-f9d5-43f6-bb22-8cc77393521c}" to="{cdb2e48e-d0c4-4e8d-9122-23a6bc46a7b4}"/>
+        <edge from="{0acc4cd6-5b21-4d89-be8f-f20a616e3323}" id="{d8c2fad5-43ff-45b7-a6b8-fde66ae85f81}" partId="{2e89f2b5-a36e-4f98-86bb-d7613587a279}" to="{4e53ddb3-4bac-4486-9b72-1b0d50279e8c}"/>
+        <edge from="{d740f1bc-331c-4628-8993-03a0f58cb252}" id="{d8ebd57d-cb2e-436f-8c3f-68214626cce1}" partId="{013f97d9-2f72-4450-a79c-c6d6c3141be3}" to="{4c3b46fa-b699-4a04-9634-a1fc3987e96f}"/>
+        <edge from="{b1987114-e2a4-48d6-86e9-d1130a75d98d}" id="{dabf98e0-9ca2-4f1d-bfbc-cf9682bcc38a}" partId="{6a01f8dc-73bb-41c5-965e-1b87ebd5e069}" to="{4eb54749-4ea3-40a5-9efc-a6c419a3257e}"/>
+        <edge from="{8849065e-e569-41e1-922a-66c4ec997855}" id="{dc3c38f5-2a92-454c-9e4d-8ce074b598d3}" partId="{0e9b2e10-bea2-4869-a579-c61514d1077d}" to="{716e85aa-8348-4f87-83d1-aefd1b4c254f}"/>
+        <edge from="{ade2568d-9020-4379-ac7b-1382cfa40230}" id="{df7cabf2-00f3-4907-a19f-6d1bd596cade}" partId="{4dc40c74-72e5-4559-a42b-14fb1b22b118}" to="{bb429cb1-f8b8-4907-b007-19cc013a0b90}"/>
+        <edge from="{353548b6-cbc2-4c22-9358-76960b19d43a}" id="{e1857829-9f38-4574-b785-174a505ab3bb}" partId="{bc7f721f-dfa5-4e49-850c-df3fda3ae531}" to="{919427e8-f9a4-43d4-8d17-1938bc049e52}"/>
+        <edge from="{85c81920-a55e-42eb-988f-f702a3982f73}" id="{e1a5eb11-1eaa-4d08-8f0f-867d82a7afed}" partId="{f6fec252-5636-41c6-96e4-24e9a1702aa9}" to="{659bfc07-2b8f-4ba2-a907-bbdff5eee8ab}"/>
+        <edge from="{d0bd7f5f-1ce9-453a-9688-0963cd2299e2}" id="{e1d9a71d-5127-44dd-a197-6334c5648c2c}" partId="{76d2addf-ca64-4263-a223-69acbc5de1ab}" to="{1acddb2c-a228-4818-8b8c-d732805d8978}"/>
+        <edge from="{00a3167e-f9af-4b04-a698-eddd9e926aad}" id="{e2a0fe2d-1035-440a-9210-321008a92286}" partId="{4a68545a-eabf-420e-999a-96982cab64c5}" to="{e81d2947-d987-4c50-9909-4847817033ea}"/>
+        <edge from="{fc851d9a-011e-4393-a655-41456bb7feb4}" id="{e30809f6-7dce-4267-9794-933ab4d3ba68}" partId="{36c42fa5-5110-4d48-9c2d-26642d29dd0f}" to="{1ea9457e-b952-4cbb-b3ef-ac51bc93121e}"/>
+        <edge from="{b7a7c0ac-7953-4acc-b9b9-359fa34249d3}" id="{e478e79d-2951-41ad-a53d-ecd0aa81c0e6}" partId="{35a691ac-77ef-4ea0-a7ea-b12fb3edb7d8}" to="{aabb321b-2d71-422f-96f1-fb9b427752b1}"/>
+        <edge from="{5ed93cfc-699f-4cdc-b0d9-a0db8f623fc3}" id="{ea0ac823-bdd7-4c7f-8d29-5007f3d5e93c}" partId="{f496202a-2290-4cfa-bb5f-6fe5d5e00dbb}" to="{026b4976-195e-43e6-9046-95c830e6bca9}"/>
+        <edge from="{9a5ac41a-5add-44d7-9280-fb957406ab7c}" id="{ea728feb-9374-4e12-a423-891b572d2166}" partId="{bcabfba3-2477-400d-9e32-2cada32ef216}" to="{0e255d83-a5e6-4546-a907-46fe9531dae5}"/>
+        <edge from="{40151ec9-bde5-4fa1-8e45-b05f7808a32e}" id="{ec14fe35-0fe5-4d22-a3a4-d2d6b55bbab7}" partId="{0e9b2e10-bea2-4869-a579-c61514d1077d}" to="{8849065e-e569-41e1-922a-66c4ec997855}"/>
+        <edge from="{a14c351e-537f-4878-bd42-1f6b2c1c58b2}" id="{f1e5c26f-98a0-4b34-9820-f7a792dd7807}" partId="{c0423874-fe1e-42cf-ae4a-c11041d76039}" to="{ac6714e3-dafc-41fb-90cd-5bfdf56486d9}"/>
+        <edge from="{b35133ff-f6f8-47cb-a186-a2f71ad30a4b}" id="{f22bb2ef-49f5-4709-abdb-ac3dd388e4cc}" partId="{a0691a75-08e6-43ba-b517-2fd9764cee2e}" to="{88210b00-9716-42f2-be25-7bd2baeab7a3}"/>
+        <edge from="{f2d1d643-34ca-4631-bc89-b147a3e0dbf8}" id="{f23ad3d2-da68-4bb2-aff5-b370b74a4033}" partId="{4f46c8ed-cae2-472e-8371-951163274fb9}" to="{b20fd709-f778-4c8e-a36a-cd5cd0368e3a}"/>
+        <edge from="{4a5d978b-a71a-417e-bdfb-de8d24683194}" id="{f258d6b6-60aa-43e5-bd32-424414ce08ab}" partId="{770af3ad-1b7a-49b6-86a8-dd3f967ee100}" to="{7cadc966-86d5-4d95-bccf-6c5231a9c4f7}"/>
+        <edge from="{ebb78bd5-1c49-41e3-bdac-3364fd1ec3e0}" id="{f36d87b9-336a-4200-87c9-e6dccb01a9f5}" partId="{69b70cd0-9316-4079-a915-7491c66a2180}" to="{1f99166b-b7ac-48af-9e2d-8f314646c37e}"/>
+        <edge from="{8afe53e7-6292-4dda-a48a-d0526a171f50}" id="{f476cad6-09bc-4351-9c8e-284eacdd4d3e}" partId="{b846af9e-6243-4d00-a23d-17dc1039d313}" to="{552d9ce1-38cf-4abc-996b-16d6b117c3c9}"/>
+        <edge from="{76484de3-14c6-4d7d-9879-e50e172f6962}" id="{f5389894-1c96-46b7-af48-7884313af5e8}" partId="{dd1418ef-89cd-4933-b429-631e5c883d65}" to="{ef8b0510-69ce-4834-8870-ca9a9b56e0b1}"/>
+        <edge from="{716e85aa-8348-4f87-83d1-aefd1b4c254f}" id="{f54b43a0-10dd-402f-bc2d-f9b7dd91b54d}" partId="{0e9b2e10-bea2-4869-a579-c61514d1077d}" to="{40151ec9-bde5-4fa1-8e45-b05f7808a32e}"/>
+        <edge from="{04ea89c2-0cfa-44ca-8aa4-4a43e074c598}" id="{f54e6623-5715-4fad-8fc0-cbcf99dfb8a1}" partId="{279fee4c-a8b7-48e7-bca1-466c046e27dd}" to="{e1cd0415-bea6-419f-806c-235dc2d5ee86}"/>
+        <edge from="{f42a245f-e933-4ee5-8eff-aab1362a9188}" id="{f669d9a9-5752-4269-b256-92b0a6e1d92e}" partId="{ed828742-0bd9-40db-9d3b-c01ab73aaa97}" to="{ec4abe25-5649-4e24-9f4e-04bcc9553800}"/>
+        <edge from="{2a523c19-ec5f-4f97-b46f-3b5a27169b6e}" id="{f69c4641-6d75-4d1f-825e-0959a03c2a6b}" partId="{dd1418ef-89cd-4933-b429-631e5c883d65}" to="{76484de3-14c6-4d7d-9879-e50e172f6962}"/>
+        <edge from="{f3d38f80-8117-44cf-ba33-1f219b352377}" id="{f709ad2e-abc4-44cc-83f7-95917678b93b}" partId="{6dd12129-caad-4f89-9580-a9b6f6047b2c}" to="{662ed296-5cd8-44e5-92f6-4d3fdcb5f8b2}"/>
+        <edge from="{fe877ed0-f36a-4d40-94ac-eb49a17e67e8}" id="{f7219d36-be71-4f81-a289-9e7291bf30e4}" partId="{83349077-7149-4042-b358-694ba21b46bb}" to="{c38c46f8-a094-4c1a-9a37-6ab739c91622}"/>
+        <edge from="{1ea9457e-b952-4cbb-b3ef-ac51bc93121e}" id="{f805f0d8-8540-486b-955d-49b29933d08d}" partId="{36c42fa5-5110-4d48-9c2d-26642d29dd0f}" to="{c0a3a951-8b1d-4e38-87f0-92c9739e774d}"/>
+        <edge from="{dd805d60-f0b1-4d6a-b3fb-c1d155c3d05a}" id="{f80f3126-978d-4332-a514-43910b2a22de}" partId="{bd916b3e-e3a0-43cc-991f-9e214f237aec}" to="{dabc63b7-7349-47ee-a58e-3cca79168a36}"/>
+        <edge from="{638c0370-77d1-49bd-9da4-526178fbf51d}" id="{f8a0ce3d-f6e1-41de-9eb7-92dfe521d73d}" partId="{2ae8b3ff-c718-4b3c-8e95-8fc56e7fc0f8}" to="{ec20b595-f725-415d-97b9-90a00a3f46c0}"/>
+        <edge from="{4b007752-6f49-4f59-9174-a04125a43d30}" id="{fb548854-cd23-42ef-a0a5-a4a19bde862e}" partId="{0abaddc5-ffad-4761-93e3-63670423acfd}" to="{fc0426eb-07bd-44f5-8257-5ad32304eb60}"/>
+        <edge from="{f07c7b43-a3bc-45e1-92d7-d9adee9a35f7}" id="{fd3ea299-a003-4568-a87b-9fe4a43543b0}" partId="{cca9ef24-7d27-40e3-a7ef-7920dbaaa379}" to="{77793d08-5b36-450e-9806-ae19da6a1b2a}"/>
+        <edge from="{12ae5276-8aa9-4dcd-8e0d-0f83ec57b0f9}" id="{fd65e5c5-4767-4642-b54d-d082fe684021}" partId="{d4037b86-f0fe-407f-b914-5b099d42acaf}" to="{62ae91b6-c49f-46b7-8982-f3d7f3363df5}"/>
+        <edge from="{09c491a7-c24d-411d-a96e-58fc3e50b4c0}" id="{fdec4825-a767-4fdd-ad22-206f80a93f61}" partId="{d96575a8-3fe3-4c1f-8e71-a014012509d4}" to="{0101112c-2290-4976-bf57-de9bb95f95ab}"/>
+        <edge from="{85dd0768-864f-4956-8467-30fadb01a7c3}" id="{ff0bf395-209e-418c-9f85-c5b632b6acc5}" partId="{b0955a46-ea37-450d-9b7d-da23e733d0bf}" to="{5ce24364-dbf8-4f60-828e-96912bb008af}"/>
+        <edge from="{77793d08-5b36-450e-9806-ae19da6a1b2a}" id="{ff85b574-9582-42c7-98d7-1a7149484bd4}" partId="{cca9ef24-7d27-40e3-a7ef-7920dbaaa379}" to="{3e9bf938-c873-4727-bdf2-d47528f1877c}"/>
+    </edges>
+    <parts>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{013f97d9-2f72-4450-a79c-c6d6c3141be3}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{02c7d514-ef8f-4fd8-8e35-e0c9902ecd82}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{0395d392-d78e-4ed6-964b-60d34329642d}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{0abaddc5-ffad-4761-93e3-63670423acfd}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{0b0d2329-8060-44ff-883c-8bc503f4f573}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{0e9b2e10-bea2-4869-a579-c61514d1077d}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{0f743902-6c5f-49d1-83e0-366b5c00ca27}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{12f34ced-1911-4641-8984-7ba78a5da26f}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{1497f1eb-8446-4b02-bb85-87f1520bddb7}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{16b90461-93e0-4306-aff1-9dec64311876}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{1cdd7eb4-0612-4f3b-84f3-08126257eee0}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{1f8b4bd5-c08a-48d6-9486-6bd04b5e1afa}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{2048197c-5d25-4350-8b69-bbc6c92e14c1}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{22e152ac-f9d5-43f6-bb22-8cc77393521c}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{26c11043-c1e9-4f26-beb0-fd03ff9038a7}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{279fee4c-a8b7-48e7-bca1-466c046e27dd}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{28909cfc-687f-4979-8107-a2a02ec09903}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{2ae8b3ff-c718-4b3c-8e95-8fc56e7fc0f8}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{2e0ed2d9-5b50-452c-b2b5-466876f3a9ab}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{2e89f2b5-a36e-4f98-86bb-d7613587a279}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{35a691ac-77ef-4ea0-a7ea-b12fb3edb7d8}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{363214d6-0d9b-46b1-bb73-599423a6b1e9}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{36b6fa7d-574a-4309-8aaa-b4643cd59266}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{36c42fa5-5110-4d48-9c2d-26642d29dd0f}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{44edcd7f-70c9-4986-afb3-84941c7f453e}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{4a68545a-eabf-420e-999a-96982cab64c5}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{4dc40c74-72e5-4559-a42b-14fb1b22b118}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{4f46c8ed-cae2-472e-8371-951163274fb9}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{50616f09-e6cd-4481-9fea-4f7f958eb6ca}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{53300dc0-cc3a-4609-a3f3-fcbcc644b882}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{54b5071c-3ab6-482a-8181-656f6d225d51}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{57cf22f4-7337-422b-a555-ac64ac4c6c96}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{5adf900f-3c3a-452d-bb3f-c28e8ec329d0}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{64e327a1-c75f-441e-b9d5-6f9c365b212c}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{678dbbd0-9aa4-468b-ba41-ba572040eb29}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{69b70cd0-9316-4079-a915-7491c66a2180}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{6a01f8dc-73bb-41c5-965e-1b87ebd5e069}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{6dd12129-caad-4f89-9580-a9b6f6047b2c}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{71edd6c1-b200-4ac4-88eb-3fb90ffd4fc3}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{76d2addf-ca64-4263-a223-69acbc5de1ab}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{770af3ad-1b7a-49b6-86a8-dd3f967ee100}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{832f3ea2-213b-41d8-8390-5bb0ad8008c8}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{83349077-7149-4042-b358-694ba21b46bb}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{83ecf666-f8d2-4f55-95ff-95e6ace251ae}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{86331152-3d9f-420d-8faa-a43965e3b991}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{882f31b2-cdbc-41c4-8498-29ded5895146}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{88e3bebb-82c5-4eea-a072-0e4030837ce7}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{89b891e5-0a8a-49d8-b330-c9173d9be03e}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{8d2348e8-7ed2-4ace-82bc-6a10d2f2e534}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{98d9b782-5d24-43dd-a7a7-45800f1eaefe}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{a0691a75-08e6-43ba-b517-2fd9764cee2e}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{a4b82dcc-b339-4c6e-ab06-b9a0e4b1d832}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{a4fb0df6-a80d-4028-9875-fd64606e2726}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{aa00e7e7-c5a5-4b22-b4a0-e436ef884e0e}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{ad48f400-ea08-4fc5-b1c0-e84c4dba2d9e}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{ae4538f5-3c76-4b89-bbf9-20bc60354c0b}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{b0955a46-ea37-450d-9b7d-da23e733d0bf}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{b5aed808-3746-4736-9d98-90342d59fa66}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{b816b4d3-f976-4846-a9bc-d9042385c426}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{b846af9e-6243-4d00-a23d-17dc1039d313}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{bba321c3-e04d-4919-9e1c-05a2049dc411}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{bc7f721f-dfa5-4e49-850c-df3fda3ae531}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{bcabfba3-2477-400d-9e32-2cada32ef216}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{bd916b3e-e3a0-43cc-991f-9e214f237aec}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{bf67a7e4-ed39-4695-a089-709de19eaaa9}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{c0423874-fe1e-42cf-ae4a-c11041d76039}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{c6623113-e3ad-4c5d-a17f-40968be715b4}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{c8f306e9-1fae-450a-aee3-1cffa8cb3b01}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{c9a995ca-565e-4934-b225-cee6232b91bd}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{cbbe543a-ba00-4825-b0d8-e80f2aecd631}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{cca9ef24-7d27-40e3-a7ef-7920dbaaa379}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{d4037b86-f0fe-407f-b914-5b099d42acaf}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{d96575a8-3fe3-4c1f-8e71-a014012509d4}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{dd1418ef-89cd-4933-b429-631e5c883d65}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{e622cd6e-b109-4a22-9b8d-bcae4de67233}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{e62d0924-8cb7-4498-810c-53572c7d317b}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{ed828742-0bd9-40db-9d3b-c01ab73aaa97}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{f496202a-2290-4cfa-bb5f-6fe5d5e00dbb}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{f6fec252-5636-41c6-96e4-24e9a1702aa9}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+        <part chamfered="false" deformThickness="0.5" disabled="false" id="{f9c82837-27f3-4e91-b8a3-458c9330b200}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
+    </parts>
+    <components>
+        <component combineMode="Uncombined" expanded="false" id="{a93e6fa2-eb01-424f-b5f0-9d8042005385}" linkData="{0e9b2e10-bea2-4869-a579-c61514d1077d}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{e1d38012-260a-46a4-ace4-556c62c9217b}" linkData="{c0423874-fe1e-42cf-ae4a-c11041d76039}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{b86117dc-856a-4ffc-b6ea-86def3c67bbb}" linkData="{dd1418ef-89cd-4933-b429-631e5c883d65}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{ab4bb855-06f6-4b19-b517-0d5b56989918}" linkData="{bc7f721f-dfa5-4e49-850c-df3fda3ae531}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{e1e96d68-c57d-4ea1-aadc-6e59247ea75d}" linkData="{bf67a7e4-ed39-4695-a089-709de19eaaa9}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{dcb15c4e-ad53-4c61-b6c3-1f760983e1fe}" linkData="{f6fec252-5636-41c6-96e4-24e9a1702aa9}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{78b65c04-b299-4c6a-8c97-d8925e1c12e0}" linkData="{4dc40c74-72e5-4559-a42b-14fb1b22b118}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{a0e93a5a-96b5-4fd5-bdd0-a22d0da5273f}" linkData="{50616f09-e6cd-4481-9fea-4f7f958eb6ca}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{b78a4aac-9d34-4d30-8e84-85912841d94a}" linkData="{aa00e7e7-c5a5-4b22-b4a0-e436ef884e0e}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{5470f7cd-c1be-4003-95ef-2da1d0e7bf37}" linkData="{5adf900f-3c3a-452d-bb3f-c28e8ec329d0}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{bbe0c3a7-ab46-4ff4-8d95-c9b1f25ad8c6}" linkData="{bba321c3-e04d-4919-9e1c-05a2049dc411}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{38aba261-86b0-4abd-8c3a-e7c8bda88e3c}" linkData="{c9a995ca-565e-4934-b225-cee6232b91bd}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{8ddb5ee2-b961-4ad6-8778-997190451cdf}" linkData="{363214d6-0d9b-46b1-bb73-599423a6b1e9}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{015e3581-3476-4abc-bf37-8f3e69b908eb}" linkData="{53300dc0-cc3a-4609-a3f3-fcbcc644b882}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{73e5be98-087a-4fdb-94f0-969d41eef515}" linkData="{4a68545a-eabf-420e-999a-96982cab64c5}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{f1c1c9ed-edc6-403c-be24-89afc3687e94}" linkData="{2e0ed2d9-5b50-452c-b2b5-466876f3a9ab}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{e51df042-5fe7-4ec6-ab50-8e4cc888e90c}" linkData="{a4b82dcc-b339-4c6e-ab06-b9a0e4b1d832}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{f1f9ec6c-b603-4a7a-8032-bcd64a3b5201}" linkData="{64e327a1-c75f-441e-b9d5-6f9c365b212c}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{33ec623b-10eb-4af3-a60d-5c6f6f757967}" linkData="{d96575a8-3fe3-4c1f-8e71-a014012509d4}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{5aca63ce-8e7e-4f8c-8a51-745dcdfb4dfe}" linkData="{36c42fa5-5110-4d48-9c2d-26642d29dd0f}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{7db6c7b5-b690-4a29-8ae9-ad935f31ce88}" linkData="{54b5071c-3ab6-482a-8181-656f6d225d51}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{624aa315-486b-4619-a07a-36f2a53469f0}" linkData="{b5aed808-3746-4736-9d98-90342d59fa66}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{d0287062-5acc-476e-8580-2395cfc03491}" linkData="{279fee4c-a8b7-48e7-bca1-466c046e27dd}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{5f5821f4-3ad8-42d7-b8cf-b3f1d91492cc}" linkData="{89b891e5-0a8a-49d8-b330-c9173d9be03e}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{6b37e9be-9dc0-4f59-beab-3682e51116f4}" linkData="{2048197c-5d25-4350-8b69-bbc6c92e14c1}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{77290505-4509-4476-965b-6e9ec008027b}" linkData="{36b6fa7d-574a-4309-8aaa-b4643cd59266}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{1342071c-e4b2-4d95-a0ff-9605cdf22064}" linkData="{e62d0924-8cb7-4498-810c-53572c7d317b}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{0b259cba-4e91-400a-b457-1dd685649cb2}" linkData="{02c7d514-ef8f-4fd8-8e35-e0c9902ecd82}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{de3451c6-9cc0-4376-8f88-09fdf0a608e6}" linkData="{ad48f400-ea08-4fc5-b1c0-e84c4dba2d9e}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{15b1c0e7-f9d0-4a91-9c3b-fad9c48d6996}" linkData="{f496202a-2290-4cfa-bb5f-6fe5d5e00dbb}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{28ca389f-6c8b-443a-8f1a-0982e8df60d7}" linkData="{c8f306e9-1fae-450a-aee3-1cffa8cb3b01}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{bd465813-b09f-460d-98de-bec19f7c8c7a}" linkData="{4f46c8ed-cae2-472e-8371-951163274fb9}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{73eef2c2-ce43-4df9-bf04-eac7757b699b}" linkData="{c6623113-e3ad-4c5d-a17f-40968be715b4}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{df25fbc8-448a-4878-9396-7c678f2907d5}" linkData="{71edd6c1-b200-4ac4-88eb-3fb90ffd4fc3}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{acef8862-017b-4fdb-8bfb-b35dac002b17}" linkData="{770af3ad-1b7a-49b6-86a8-dd3f967ee100}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{2000e418-d2b6-4634-a1b9-8f536c5d7f44}" linkData="{22e152ac-f9d5-43f6-bb22-8cc77393521c}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{07b78f7b-c688-4f1d-ac4b-f816c3a3bfcf}" linkData="{013f97d9-2f72-4450-a79c-c6d6c3141be3}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{67f6bea4-cc2c-4229-a502-f7e0e78010b6}" linkData="{882f31b2-cdbc-41c4-8498-29ded5895146}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{acb3dfb3-444e-45e8-8505-d07e1ecf31fa}" linkData="{b846af9e-6243-4d00-a23d-17dc1039d313}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{d332edb5-76a9-4fec-bbe1-9d9e51cadde7}" linkData="{f9c82837-27f3-4e91-b8a3-458c9330b200}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{47f6bf9c-9ade-4fc0-9e53-dfb2b8947624}" linkData="{26c11043-c1e9-4f26-beb0-fd03ff9038a7}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{dc6f5f3b-21e0-4d04-b7ad-0429da1cacc8}" linkData="{0395d392-d78e-4ed6-964b-60d34329642d}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{3fc53d6c-c5d9-4594-9c6e-f99fafc571bb}" linkData="{1f8b4bd5-c08a-48d6-9486-6bd04b5e1afa}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{a0aa0863-8298-4831-a4ee-1b48c611be49}" linkData="{28909cfc-687f-4979-8107-a2a02ec09903}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{b55266ae-8ea0-426f-9722-0f445ce77996}" linkData="{2e89f2b5-a36e-4f98-86bb-d7613587a279}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{aaffc596-6fa4-4a9a-963e-7755cdc38e4e}" linkData="{832f3ea2-213b-41d8-8390-5bb0ad8008c8}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{d55aebd4-424b-4e06-9c6a-d042d2289f46}" linkData="{8d2348e8-7ed2-4ace-82bc-6a10d2f2e534}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{dfea7274-9d7e-47be-95de-74b82b5004fa}" linkData="{bd916b3e-e3a0-43cc-991f-9e214f237aec}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{78711fa4-730f-41b6-8fc9-2166d4359610}" linkData="{98d9b782-5d24-43dd-a7a7-45800f1eaefe}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{0fda2289-d0fe-4471-8bfa-3bd7bbcd698f}" linkData="{1497f1eb-8446-4b02-bb85-87f1520bddb7}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{1acd8b3a-3873-4a39-a606-2ee69c750bcd}" linkData="{44edcd7f-70c9-4986-afb3-84941c7f453e}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{4c79b376-d97c-4fb4-a0ce-0ae64e0436ee}" linkData="{2ae8b3ff-c718-4b3c-8e95-8fc56e7fc0f8}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{cd276100-2d7d-49d7-bd98-71540ee8f684}" linkData="{bcabfba3-2477-400d-9e32-2cada32ef216}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{e86ac026-b5ce-48be-b98e-a75b88ddc5b9}" linkData="{cca9ef24-7d27-40e3-a7ef-7920dbaaa379}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{08e12172-d071-4f79-b711-0d32bf5f5f9d}" linkData="{0b0d2329-8060-44ff-883c-8bc503f4f573}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{027aa4ed-ca9b-4203-826b-17ca0822e585}" linkData="{35a691ac-77ef-4ea0-a7ea-b12fb3edb7d8}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{0d78a41e-16a5-47b4-9105-313b4c9a9714}" linkData="{6dd12129-caad-4f89-9580-a9b6f6047b2c}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{693b7d90-ea9f-4c83-a175-167773176289}" linkData="{69b70cd0-9316-4079-a915-7491c66a2180}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{f257f306-26fa-46a0-87c7-77fef5f221c8}" linkData="{1cdd7eb4-0612-4f3b-84f3-08126257eee0}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{e69290d2-bbe6-48f2-bc63-7432b343d83a}" linkData="{0f743902-6c5f-49d1-83e0-366b5c00ca27}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{a87de085-9fe4-401c-acdc-ee0c875e2c14}" linkData="{83ecf666-f8d2-4f55-95ff-95e6ace251ae}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{400c5737-e463-4f0f-bbea-235f8ff3cda6}" linkData="{678dbbd0-9aa4-468b-ba41-ba572040eb29}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{be6b4bcd-e8ad-4d52-838b-4c0919eeb815}" linkData="{a4fb0df6-a80d-4028-9875-fd64606e2726}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{8d16e07f-83f2-49d1-acd1-65d683611ca2}" linkData="{a0691a75-08e6-43ba-b517-2fd9764cee2e}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{8477759f-42d9-4fc2-857e-3fd236676a00}" linkData="{12f34ced-1911-4641-8984-7ba78a5da26f}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{e48a873a-0a7b-4c12-8ee2-d09c0e41656f}" linkData="{d4037b86-f0fe-407f-b914-5b099d42acaf}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{313ec0f1-83e6-466a-b3fe-5cb7400dc377}" linkData="{83349077-7149-4042-b358-694ba21b46bb}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{7f83cfb3-3bbe-4dc1-acd5-346d3a7e77da}" linkData="{88e3bebb-82c5-4eea-a072-0e4030837ce7}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{695f53f4-0006-4fc7-a038-b939c1b6c0aa}" linkData="{e622cd6e-b109-4a22-9b8d-bcae4de67233}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{70d88afb-2d05-4bc0-99dc-e6e0a6e730da}" linkData="{b816b4d3-f976-4846-a9bc-d9042385c426}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{261d6741-88e3-4b01-9906-f718b6cb4000}" linkData="{6a01f8dc-73bb-41c5-965e-1b87ebd5e069}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{4c9d4dda-193c-44d0-9ae8-8dc33a6d277b}" linkData="{b0955a46-ea37-450d-9b7d-da23e733d0bf}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{9659979d-7939-4747-bb82-d4ec440fed01}" linkData="{57cf22f4-7337-422b-a555-ac64ac4c6c96}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{1f7ef444-ed65-41b8-b661-f3e2f1deebda}" linkData="{76d2addf-ca64-4263-a223-69acbc5de1ab}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{9e4991de-8e32-4a78-ac6f-d69dcdacc1e5}" linkData="{cbbe543a-ba00-4825-b0d8-e80f2aecd631}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{ae98b796-a1e0-4a05-b2a5-96c5a0fb9b93}" linkData="{0abaddc5-ffad-4761-93e3-63670423acfd}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{95d9a73a-5ee4-47c7-b569-b9397e5c3c72}" linkData="{86331152-3d9f-420d-8faa-a43965e3b991}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{0b153b0c-b5a0-453a-977b-acaa97a781d4}" linkData="{ed828742-0bd9-40db-9d3b-c01ab73aaa97}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{6c9c4a77-b8de-4a7f-bf15-5069d9068e51}" linkData="{ae4538f5-3c76-4b89-bbf9-20bc60354c0b}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{c9b29e7c-b19d-4f34-af81-316f7005e739}" linkData="{16b90461-93e0-4306-aff1-9dec64311876}" linkDataType="partId"/>
+    </components>
+    <materials/>
+    <poses/>
+    <motions/>
+</canvas>
+// The code in this file is modified from Andreas Kahler's blog post
+// http://blog.andreaskahler.com/2009/06/creating-icosphere-mesh-in-code.html
+
+var gVertices = [];
+var gMiddlePointIndexCache = {};
+var gRadius = document.createFloatInput("Width", 0.01, 0.01, 0.1);
+var gRecursionLevel = 1;
+
+function addVertex(p)
+{
+    var index = gVertices.length;
+    var length = Math.sqrt(p.x * p.x + p.y * p.y + p.z * p.z);
+    gVertices.push(new THREE.Vector3(p.x/length, p.y/length, p.z/length));
+    return index;
+}
+
+function getMiddlePoint(p1, p2)
+{
+    // first check if we have it already
+    var firstIsSmaller = p1 < p2;
+    var smallerIndex = firstIsSmaller ? p1 : p2;
+    var greaterIndex = firstIsSmaller ? p2 : p1;
+    var key = smallerIndex + ":" + greaterIndex;
+
+    var ret;
+    if (undefined != (ret=gMiddlePointIndexCache[key])) {
+        return ret;
+    }
+
+    // not in cache, calculate it
+    var point1 = gVertices[p1].clone();
+    var point2 = gVertices[p2].clone();
+    var middle = new THREE.Vector3(
+        (point1.x + point2.x) / 2.0,
+        (point1.y + point2.y) / 2.0,
+        (point1.z + point2.z) / 2.0);
+
+    // add vertex makes sure point is on unit sphere
+    var i = addVertex(middle);
+
+    // store it, return index
+    gMiddlePointIndexCache[key] = i;
+    return i;
+}
+
+function TriangleIndices(i, j, k)
+{
+    this.v1 = i;
+    this.v2 = j;
+    this.v3 = k;
+}
+
+function createNode(part, origin, radius)
+{
+    var node = document.createNode(part);
+    document.setAttribute(node, "x", 0.5 + origin.getComponent(0) / 3);
+    document.setAttribute(node, "y", 0.5 + origin.getComponent(1) / 3);
+    document.setAttribute(node, "z", 0.5 + origin.getComponent(2) / 3);
+    document.setAttribute(node, "radius", radius);
+    return node;
+}
+
+function createTrianglePart(i, j, k)
+{
+    var component = document.createComponent();
+    document.setAttribute(component, "combineMode", "Uncombined");
+    var part = document.createPart(component);
+    document.setAttribute(part, "cutFace", "Quad");
+    document.setAttribute(part, "deformThickness", "0.5");
+    var node0 = createNode(part, gVertices[i], gRadius);
+    var node1 = createNode(part, gVertices[j], gRadius);
+    var node2 = createNode(part, gVertices[k], gRadius);
+    document.connect(node0, node1);
+    document.connect(node1, node2);
+    document.connect(node2, node0);
+}
+
+function createModel(recursionLevel)
+{
+    // create 12 vertices of a icosahedron
+    var t = (1.0 + Math.sqrt(5.0)) / 2.0;
+
+    addVertex(new THREE.Vector3(-1,  t,  0));
+    addVertex(new THREE.Vector3( 1,  t,  0));
+    addVertex(new THREE.Vector3(-1, -t,  0));
+    addVertex(new THREE.Vector3( 1, -t,  0));
+
+    addVertex(new THREE.Vector3( 0, -1,  t));
+    addVertex(new THREE.Vector3( 0,  1,  t));
+    addVertex(new THREE.Vector3( 0, -1, -t));
+    addVertex(new THREE.Vector3( 0,  1, -t));
+
+    addVertex(new THREE.Vector3( t,  0, -1));
+    addVertex(new THREE.Vector3( t,  0,  1));
+    addVertex(new THREE.Vector3(-t,  0, -1));
+    addVertex(new THREE.Vector3(-t,  0,  1));
+
+
+    // create 20 triangles of the icosahedron
+    var faces = [];
+
+    // 5 faces around point 0
+    faces.push(new TriangleIndices(0, 11, 5));
+    faces.push(new TriangleIndices(0, 5, 1));
+    faces.push(new TriangleIndices(0, 1, 7));
+    faces.push(new TriangleIndices(0, 7, 10));
+    faces.push(new TriangleIndices(0, 10, 11));
+
+    // 5 adjacent faces
+    faces.push(new TriangleIndices(1, 5, 9));
+    faces.push(new TriangleIndices(5, 11, 4));
+    faces.push(new TriangleIndices(11, 10, 2));
+    faces.push(new TriangleIndices(10, 7, 6));
+    faces.push(new TriangleIndices(7, 1, 8));
+
+    // 5 faces around point 3
+    faces.push(new TriangleIndices(3, 9, 4));
+    faces.push(new TriangleIndices(3, 4, 2));
+    faces.push(new TriangleIndices(3, 2, 6));
+    faces.push(new TriangleIndices(3, 6, 8));
+    faces.push(new TriangleIndices(3, 8, 9));
+
+    // 5 adjacent faces
+    faces.push(new TriangleIndices(4, 9, 5));
+    faces.push(new TriangleIndices(2, 4, 11));
+    faces.push(new TriangleIndices(6, 2, 10));
+    faces.push(new TriangleIndices(8, 6, 7));
+    faces.push(new TriangleIndices(9, 8, 1));
+
+
+    // refine triangles
+    for (var i = 0; i < recursionLevel; i++) {
+        var faces2 = [];
+        for (var j = 0; j < faces.length; ++j) {
+            var tri = faces[j];
+
+            // replace triangle by 4 triangles
+            var a = getMiddlePoint(tri.v1, tri.v2);
+            var b = getMiddlePoint(tri.v2, tri.v3);
+            var c = getMiddlePoint(tri.v3, tri.v1);
+
+            faces2.push(new TriangleIndices(tri.v1, a, c));
+            faces2.push(new TriangleIndices(tri.v2, b, a));
+            faces2.push(new TriangleIndices(tri.v3, c, b));
+            faces2.push(new TriangleIndices(a, b, c));
+        }
+        faces = faces2;
+    }
+
+    // done, now add triangles to mesh
+    for (var j = 0; j < faces.length; ++j) {
+        var tri = faces[j];
+        createTrianglePart(tri.v1, tri.v2, tri.v3);
+    }
+}
+
+createModel(gRecursionLevel);
+<?xml version="1.0" encoding="UTF-8"?>
+<variables>
+    <variable name="Width" defaultValue="0.01" input="Float" maxValue="0.1" minValue="0.01" value="0.01"/>
+</variables>
