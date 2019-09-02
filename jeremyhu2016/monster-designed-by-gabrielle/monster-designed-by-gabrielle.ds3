@@ -1,9 +1,9 @@
 DUST3D 1.0 xml 0000000295
 <?xml version="1.0" encoding="UTF-8"?>
 <ds3>
-    <model name="model.xml" offset="0" size="118215"/>
-    <asset name="canvas.png" offset="118215" size="210051"/>
-    <asset name="images/{2f2388e0-b01a-43f8-81ca-846c14a7e4f3}.png" offset="328266" size="735382"/>
+    <model name="model.xml" offset="0" size="118470"/>
+    <asset name="canvas.png" offset="118470" size="210051"/>
+    <asset name="images/{2f2388e0-b01a-43f8-81ca-846c14a7e4f3}.png" offset="328521" size="735382"/>
 </ds3>
 <?xml version="1.0" encoding="UTF-8"?>
 <canvas originX="0.732673" originY="0.489109" originZ="1.54554" rigType="Animal">
@@ -815,7 +815,13 @@ DUST3D 1.0 xml 0000000295
             </frames>
         </pose>
     </poses>
-    <motions/>
+    <motions>
+        <motion id="{69b67a96-388a-4e15-8f7f-e1a04c2c23b4}" name="walk">
+            <clips>
+                <clip duration="0" linkData="{f3c627b4-2959-45b6-8249-15c72c436f84}" linkDataType="poseId"/>
+            </clips>
+        </motion>
+    </motions>
 </canvas>
 ‰PNG
 
