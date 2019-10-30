@@ -1,12 +1,13 @@
 DUST3D 1.0 xml 0000000195
 <?xml version="1.0" encoding="UTF-8"?>
 <ds3>
-    <model name="model.xml" offset="0" size="113709"/>
-    <asset name="canvas.png" offset="113709" size="356380"/>
+    <model name="model.xml" offset="0" size="115494"/>
+    <asset name="canvas.png" offset="115494" size="356380"/>
 </ds3>
 <?xml version="1.0" encoding="UTF-8"?>
 <canvas originX="0.332673" originY="0.477228" originZ="0.892574" rigType="None">
     <nodes>
+        <node id="{004152ed-0a79-4c71-9a81-0c729f1444c7}" partId="{9d6575c6-b1ab-4b52-a4b6-82214be764f3}" radius="0.005" x="0.326733" y="0.130693" z="0.85099"/>
         <node id="{008da4d1-04ba-4692-be86-47e8c22226a9}" partId="{2582f296-72c9-43ea-a460-69419664424f}" radius="0.0327228" x="0.378218" y="0.134653" z="0.904455"/>
         <node id="{00bf678f-a756-4803-aaa1-76338b43f9f6}" partId="{e57e23ec-5c79-48ac-9296-dc6745bfe242}" radius="0.024802" x="0.328079" y="0.415583" z="0.848943"/>
         <node id="{00cf7300-a625-411a-981d-bc6e17b2fd4f}" partId="{fd3102b1-c0e8-44b6-9fa3-5f26ef432136}" radius="0.024802" x="0.279083" y="0.333757" z="0.858364"/>
@@ -65,6 +66,7 @@ DUST3D 1.0 xml 0000000195
         <node id="{2a34551a-98b1-4d7b-b539-4e14c1f5d103}" partId="{67b90ad5-b4ce-4395-a8bf-ad2093fd77d0}" radius="0.0475248" x="0.279208" y="0.564356" z="0.883168"/>
         <node id="{2ac88657-2e2d-46c9-8092-82949bb7b9e9}" partId="{28b3cfd0-9c41-490f-93c5-fcc0d9efdf65}" radius="0.0415842" x="0.378218" y="0.514437" z="0.962294"/>
         <node id="{2b87321c-070b-46e4-9eff-125fdc01b075}" partId="{d4040f1d-13d6-4b1e-8ca2-f07715f90ead}" radius="0.024802" x="0.328394" y="0.278573" z="0.865228"/>
+        <node id="{2d858a5d-225c-4b65-8bf8-9fa2ba39863b}" partId="{9d6575c6-b1ab-4b52-a4b6-82214be764f3}" radius="0.005" x="0.29505" y="0.122772" z="0.864851"/>
         <node id="{2ddaac26-e98d-4a4a-91ae-ccc2cbf1e92f}" partId="{34a2e599-ffcf-4c74-8e29-3127424392fc}" radius="0.0118812" x="0.978413" y="0.78906" z="1.47079"/>
         <node id="{2e00caf7-4e8f-498f-ab6c-35430d0ca30b}" partId="{87fd5aec-6c17-4c89-9bcb-82d69e37eabf}" radius="0.005" x="0.433663" y="0.54078" z="0.840518"/>
         <node id="{2f8c760d-fc79-4d8c-8b77-4219aec79060}" partId="{fde64fe7-af92-469c-b87b-1c9131b6f946}" radius="0.00896039" x="0.30297" y="0.326924" z="0.832745"/>
@@ -126,6 +128,7 @@ DUST3D 1.0 xml 0000000195
         <node id="{5f5e78f8-514f-4c8b-adac-5af896b653ef}" partId="{9ed94e1e-e280-49e6-85da-daa73d2bf19e}" radius="0.024802" x="0.327843" y="0.313666" z="0.856224"/>
         <node id="{608a613f-ddff-4345-9010-9f0df1772c67}" partId="{30c6134d-fe3f-4291-9e14-3ce435ebec56}" radius="0.005" x="0.291506" y="0.513459" z="0.778808"/>
         <node id="{61e6396d-5b00-45b1-a9cc-5510e010be75}" partId="{aea3dc19-7300-4bb4-88d3-b7e4a2fe2713}" radius="0.00990099" x="1.17624" y="0.556436" z="0.64604"/>
+        <node id="{61e6b68b-3122-4258-b665-09b08f99783d}" partId="{9d6575c6-b1ab-4b52-a4b6-82214be764f3}" radius="0.005" x="0.308911" y="0.126733" z="0.856931"/>
         <node id="{6281f23e-5d80-4948-b00d-c0eaa8284dfe}" partId="{47a9b369-3f11-4bd6-8b76-b0b082bac4cb}" radius="0.00896039" x="0.289109" y="0.326924" z="0.834725"/>
         <node id="{62a47711-b18b-4d33-9002-9c839ce7916d}" partId="{19da6023-52e1-41d1-b442-fdcf3f6020f1}" radius="0.00896039" x="0.300021" y="0.330732" z="0.834725"/>
         <node id="{62af8b06-3951-4fad-8538-d0e2463e0975}" partId="{28b3cfd0-9c41-490f-93c5-fcc0d9efdf65}" radius="0.0415842" x="0.378218" y="0.511073" z="0.930292"/>
@@ -178,6 +181,7 @@ DUST3D 1.0 xml 0000000195
         <node id="{9b0b66d4-3031-4482-9caa-c0d5e4ca6064}" partId="{94186fad-17eb-4f48-800f-12254453e1ab}" radius="0.00792078" x="0.39604" y="0.938752" z="0.86723"/>
         <node id="{9ba6918e-1059-4851-bab6-7f234e956649}" partId="{67b90ad5-b4ce-4395-a8bf-ad2093fd77d0}" radius="0.0277228" x="0.273267" y="0.732673" z="0.90099"/>
         <node id="{9bb90b5d-5a57-4530-b033-adfc12004e3d}" partId="{ea8670ec-e9f4-4034-9f61-3b81b988bb39}" radius="0.0138614" x="0.706931" y="0.29505" z="1.21139"/>
+        <node id="{9cf9209e-0e69-4c75-81ab-e7d57dfa42ed}" partId="{90a0450f-df57-49d0-b067-4938497b0603}" radius="0.0089604" x="0.314851" y="0.144554" z="0.860891"/>
         <node id="{9e59018e-089e-447d-a06e-af5e9439d8c5}" partId="{f75b4e11-1b44-4ceb-a88e-a844d55feec2}" radius="0.024802" x="0.299006" y="0.358443" z="0.929905"/>
         <node id="{9f44b21b-11de-4b22-8342-e1607e8cf0d3}" partId="{f31cd9d2-f12b-4d2d-a0a9-3ea6313f801c}" radius="0.005" x="0.384158" y="0.953888" z="0.843168"/>
         <node id="{9f8ff6fe-b871-4739-a024-77006282a135}" partId="{325408f4-1eaf-494c-9646-431bf2590822}" radius="0.0178218" x="0.430692" y="0.398459" z="0.88068"/>
@@ -377,6 +381,7 @@ DUST3D 1.0 xml 0000000195
         <edge from="{7d30b84b-1f69-42a2-9db4-db05fd23a472}" id="{6d87118c-06cf-418e-b97e-5efbcc0cc22c}" partId="{f75b4e11-1b44-4ceb-a88e-a844d55feec2}" to="{451b6ec5-88dc-4b2c-9844-d94446fef517}"/>
         <edge from="{0ae2ada1-f7f2-43b2-a5bc-f5beac354e86}" id="{6dfe130c-ea46-4988-b546-ea0c5c450c3d}" partId="{59c72542-1cf6-469b-aaf0-96dd352a63a5}" to="{33ca1d44-5e41-43e7-bcb5-dd301fa445c6}"/>
         <edge from="{01f2c64b-d08b-49cd-9164-1b30dbd8353c}" id="{6e849a47-d30c-402f-aed8-9a40bd07696c}" partId="{47a9b369-3f11-4bd6-8b76-b0b082bac4cb}" to="{6281f23e-5d80-4948-b00d-c0eaa8284dfe}"/>
+        <edge from="{61e6b68b-3122-4258-b665-09b08f99783d}" id="{6ffce3ad-a6c3-43ce-9fa0-c0e89669d969}" partId="{9d6575c6-b1ab-4b52-a4b6-82214be764f3}" to="{004152ed-0a79-4c71-9a81-0c729f1444c7}"/>
         <edge from="{6f339d42-ff18-416e-93ae-b40bf37681bf}" id="{735d3736-3330-46e4-bbba-f9f76b2ebdb9}" partId="{cae0a5cc-c8ed-4a08-891a-a7de47c7a07e}" to="{8a9ed1bd-eab3-4c7d-8ad3-1d1dea9d6e85}"/>
         <edge from="{e7b2d15e-6612-4aef-ad5b-3abfc531dee8}" id="{7397359d-a445-453d-9b2d-92b2f0e86fa0}" partId="{908bf867-dcb6-4595-8ff1-53be3c354c24}" to="{3e8fbdf3-65b1-4a60-807a-ef838ae57824}"/>
         <edge from="{17ae0f9c-5b88-483e-b424-c2b4b0c5e876}" id="{7450f842-27aa-4258-83ce-40deedee2649}" partId="{325408f4-1eaf-494c-9646-431bf2590822}" to="{fd0d8927-70b7-4fed-b5f3-4ff328476c10}"/>
@@ -433,6 +438,7 @@ DUST3D 1.0 xml 0000000195
         <edge from="{36a5d2d7-ff5a-48cc-9215-c9e91b1056df}" id="{a31f14ac-95f2-4327-9441-e4e999944a60}" partId="{fde64fe7-af92-469c-b87b-1c9131b6f946}" to="{2f8c760d-fc79-4d8c-8b77-4219aec79060}"/>
         <edge from="{eaeae9c1-4d29-4923-ac9e-befe865aa386}" id="{a45b11af-77b7-495f-95cb-e744fbe85ba7}" partId="{d4040f1d-13d6-4b1e-8ca2-f07715f90ead}" to="{ba253af5-26c2-4d6d-9be8-61bf4b2b96f2}"/>
         <edge from="{5f5e78f8-514f-4c8b-adac-5af896b653ef}" id="{a58ec510-e659-44c8-ab7c-f609e3f82905}" partId="{9ed94e1e-e280-49e6-85da-daa73d2bf19e}" to="{b7e62320-c708-49bd-8589-f6a3d8ab08bd}"/>
+        <edge from="{61e6b68b-3122-4258-b665-09b08f99783d}" id="{a6b6e155-a097-4833-96ae-4493a906ea13}" partId="{9d6575c6-b1ab-4b52-a4b6-82214be764f3}" to="{2d858a5d-225c-4b65-8bf8-9fa2ba39863b}"/>
         <edge from="{59d32dae-2c22-4794-a57e-26f664d67f17}" id="{a864c75d-bdb9-4b1e-bbb4-398f78b59b4c}" partId="{d4040f1d-13d6-4b1e-8ca2-f07715f90ead}" to="{2b87321c-070b-46e4-9eff-125fdc01b075}"/>
         <edge from="{bf6ccafa-edf6-47f7-a93c-ef1e3e857daa}" id="{a987f037-9417-4a09-a377-085eed7574ee}" partId="{0ef39151-2362-487f-86fe-2bbeaf0b2a14}" to="{064c33db-4e5a-4f6b-85b1-e35ee68acb63}"/>
         <edge from="{4ce6506f-a569-465a-a7db-a32f90e394da}" id="{aab9d22e-2eee-4f16-bab5-c765c1756fc1}" partId="{36ad181e-f3c2-4a30-b9ee-7a1bc1f0d91e}" to="{e4db342b-ed4e-4b34-9160-2407fdde2f48}"/>
@@ -547,7 +553,9 @@ DUST3D 1.0 xml 0000000195
         <part chamfered="false" color="#edc09b" cutFace="{ea8670ec-e9f4-4034-9f61-3b81b988bb39}" cutRotation="-0.5" disabled="false" id="{8e351c55-b15b-4195-a0ed-e03ac4415995}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="false"/>
         <part chamfered="false" color="#edc09b" disabled="false" id="{8e5b9c03-4aa8-4de4-863f-d2d90c4f1b69}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="true"/>
         <part chamfered="true" color="#728261" disabled="false" id="{908bf867-dcb6-4595-8ff1-53be3c354c24}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
+        <part chamfered="false" color="#0a0b08" disabled="false" id="{90a0450f-df57-49d0-b067-4938497b0603}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="true"/>
         <part chamfered="false" color="#0a0b08" deformWidth="0.31" disabled="false" id="{94186fad-17eb-4f48-800f-12254453e1ab}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
+        <part chamfered="false" color="#0a0b08" disabled="false" id="{9d6575c6-b1ab-4b52-a4b6-82214be764f3}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="true"/>
         <part base="ZX" chamfered="false" color="#728261" cutFace="Hexagon" disabled="false" id="{9ed94e1e-e280-49e6-85da-daa73d2bf19e}" locked="false" rounded="false" subdived="false" visible="true" xMirrored="false"/>
         <part chamfered="false" color="#edc09b" disabled="false" id="{ac712742-28ef-462e-96ed-67e73a01fdee}" locked="false" rounded="false" subdived="true" visible="true" xMirrored="false"/>
         <part chamfered="false" disabled="false" id="{aea3dc19-7300-4bb4-88d3-b7e4a2fe2713}" locked="false" rounded="false" subdived="false" target="CutFace" visible="true" xMirrored="false"/>
@@ -639,6 +647,8 @@ DUST3D 1.0 xml 0000000195
         <component combineMode="Normal" expanded="false" id="{437d7f48-98dd-4165-b93a-649eae823033}" linkData="{fd3102b1-c0e8-44b6-9fa3-5f26ef432136}" linkDataType="partId"/>
         <component combineMode="Normal" expanded="false" id="{e274b012-e7c0-4341-a2bc-3f9a3a2ca9a6}" linkData="{9ed94e1e-e280-49e6-85da-daa73d2bf19e}" linkDataType="partId"/>
         <component combineMode="Normal" expanded="false" id="{af8133f6-4dce-4313-861d-ef57adcafdd9}" linkData="{d4040f1d-13d6-4b1e-8ca2-f07715f90ead}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{bd3e4f90-dfdc-4531-9beb-ae1ac4cced6a}" linkData="{9d6575c6-b1ab-4b52-a4b6-82214be764f3}" linkDataType="partId"/>
+        <component combineMode="Uncombined" expanded="false" id="{b89ff144-37ed-44d3-b4dc-b83b683c4e36}" linkData="{90a0450f-df57-49d0-b067-4938497b0603}" linkDataType="partId"/>
     </components>
     <materials/>
     <poses/>
